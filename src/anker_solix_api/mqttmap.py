@@ -1463,8 +1463,12 @@ _A1782_0421 = (
                     SIGNED: True,
                     TYPE: DeviceHexDataTypes.ui.value,
                 },
+                "01": {
+                    NAME: "battery_status",  # 0=standby, 1=discharge, 2=charge
+                    TYPE: DeviceHexDataTypes.ui.value,
+                },
                 "02": {
-                    NAME: "battery_soc",
+                    NAME: "main_battery_soc",  # Main unit SOC %
                     TYPE: DeviceHexDataTypes.ui.value,
                 },
             }
@@ -1478,6 +1482,14 @@ _A1782_0421 = (
                 "02": {
                     NAME: "ac_input_power",  # Input power total charge
                     TYPE: DeviceHexDataTypes.sile.value,
+                },
+                "04": {
+                    NAME: "bat_charge_power",  # Battery / DC charge power total
+                    TYPE: DeviceHexDataTypes.sile.value,
+                },
+                "08": {
+                    NAME: "battery_soc",  # Combined SOC % of main + expansion batteries
+                    TYPE: DeviceHexDataTypes.ui.value,
                 },
             },
         },
@@ -1604,6 +1616,38 @@ _A1782_0421 = (
         for idx in range(1, 4)
     }
     | {
+        "d8": {
+            # Home system / scene telemetry (50-byte binary payload)
+            # 00: user_scene_mode (5=TOU), 01: scene min_soc, 02: max_soc,
+            # 06: battery_power_signed (sile), 08: bat_discharge_power (sile),
+            # 10: pv_exist, 11: main_ct_number, 13: branch_ct_number,
+            # 14: grid_power (sile), 16: branch_ct_power (sile),
+            # 18: max_load (sile), 20: ac_input_limit (sile), 22: home_load_preset (sile),
+            # 26/28/32/46: home_load_power (sile), 38: charging_status? (0/2),
+            # 41: charge_protect_threshold (sile), 43: discharge_protect_threshold (sile)
+            BYTES: {
+                "00": {
+                    NAME: "user_scene_mode",
+                    TYPE: DeviceHexDataTypes.ui.value,
+                },
+                "06": {
+                    NAME: "battery_power_signed",
+                    TYPE: DeviceHexDataTypes.sile.value,
+                },
+                "08": {
+                    NAME: "bat_discharge_power",
+                    TYPE: DeviceHexDataTypes.sile.value,
+                },
+                "18": {
+                    NAME: "max_load",
+                    TYPE: DeviceHexDataTypes.sile.value,
+                },
+                "22": {
+                    NAME: "home_load_preset",
+                    TYPE: DeviceHexDataTypes.sile.value,
+                },
+            }
+        },
         "d9": {
             BYTES: {
                 "03": {
@@ -4960,6 +5004,20 @@ SOLIXMQTTMAP: Final[dict] = {
     # PPS C1000 Gen 2
     "A1763": {
         "0057": CMD_REALTIME_TRIGGER,  # for regular status messages 0405 etc
+        "0100": CMD_STATUS_REQUEST
+        | {  # Device status request (one time status messages 0900)
+            "a2": {
+                TYPE: DeviceHexDataTypes.bin.value,
+                LENGTH: 1,
+                BYTES: {
+                    "00": {
+                        NAME: "push_status_request",  # Push (1)
+                        TYPE: DeviceHexDataTypes.ui.value,
+                        VALUE_DEFAULT: 1,
+                    },
+                },
+            }
+        },
         "0101": {
             # AC command group
             COMMAND_LIST: [
