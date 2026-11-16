@@ -1,0 +1,42 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "wifi_info_list": [
+      {
+        "wifi_name": "wifi-network-1",
+        "wifi_signal": "",
+        "device_sn": "75R2301GDVS4URYWK",
+        "rssi": "-51",
+        "offline": false,
+        "is_support_wired": true,
+        "wired_connected": true,
+        "link_info": null,
+        "hardware_info": 0,
+        "hardware_main_sn": "",
+        "hardware_status": 0,
+        "hardware_pn": "",
+        "device_img": "",
+        "alias_name": ""
+      },
+      {
+        "wifi_name": "wifi-network-2",
+        "wifi_signal": "",
+        "device_sn": "3VIC64BMM5YYRA1O",
+        "rssi": "-40",
+        "offline": false,
+        "is_support_wired": false,
+        "wired_connected": false,
+        "link_info": null,
+        "hardware_info": 0,
+        "hardware_main_sn": "",
+        "hardware_status": 0,
+        "hardware_pn": "",
+        "device_img": "",
+        "alias_name": ""
+      }
+    ],
+    "hardware_list": null
+  },
+  "trace_id": "11befad7d90512ceffb9dceb33ee6cad"
+}

@@ -1,0 +1,744 @@
+{
+  "3VIC64BMM5YYRA1O": {
+    "device_sn": "3VIC64BMM5YYRA1O",
+    "device_code": "C64",
+    "site_id": "126c3ff8-711a-6e3a-f797-1127110ccd4e",
+    "is_admin": true,
+    "device_pn": "A17X7US",
+    "device_code_features": {},
+    "mqtt_supported": true,
+    "mqtt_overlay": false,
+    "mqtt_status_interval": 0,
+    "mqtt_status_request": false,
+    "type": "smartmeter",
+    "status": "1",
+    "status_desc": "online",
+    "wireless_type": "",
+    "alias": "Smart Meter",
+    "name": "Smart Meter",
+    "data_valid": true,
+    "grid_status": "0",
+    "grid_status_desc": "ok",
+    "photovoltaic_to_grid_power": "0",
+    "grid_to_home_power": "0",
+    "owner_user_id": "0f119e60bbc4d47aa30cbd99c62ce5ddc8f9afec",
+    "bt_ble_mac": "F8CDBBEDC5D4",
+    "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/8rn1KSkOVILAq1FY/picl_A17X7_US_normal%281%29.png",
+    "wifi_online": true,
+    "wifi_name": "wifi-network-2",
+    "relate_type": [
+      "ble",
+      "wifi"
+    ],
+    "charge": false,
+    "bws_surplus": "0",
+    "sw_version": "1.0.0.15",
+    "tag": "",
+    "platform_tag": "",
+    "rssi": "-40",
+    "wifi_signal": "100",
+    "intgr_device": null,
+    "wifi_mac": "E9DEDBEE816D",
+    "time_zone": "PST8PDT,M3.2.0,M11.1.0",
+    "group_info": null,
+    "is_ota_update": false,
+    "ota_version": "1.0.0.15",
+    "is_support_wired": false,
+    "wired_connected": false
+  },
+  "75R2301GDVS4URYWK": {
+    "device_sn": "75R2301GDVS4URYWK",
+    "device_code": "2301",
+    "site_id": "126c3ff8-711a-6e3a-f797-1127110ccd4e",
+    "is_admin": true,
+    "device_pn": "A1782",
+    "device_code_features": {},
+    "mqtt_supported": true,
+    "mqtt_overlay": false,
+    "mqtt_status_interval": 0,
+    "mqtt_status_request": true,
+    "type": "solarbank_pps",
+    "status": "1",
+    "status_desc": "online",
+    "battery_size": 3072,
+    "expansion_packs": 2,
+    "battery_capacity": "9216",
+    "battery_soc": "36",
+    "wireless_type": "1",
+    "charging_status": "2",
+    "charging_status_desc": "charge",
+    "phase": "1",
+    "solar_power_1": "380",
+    "solar_power_2": "1036",
+    "pv_name": {
+      "pv1_name": "",
+      "pv2_name": ""
+    },
+    "sub_package_num": 2,
+    "grid_to_battery_power": "0",
+    "main_ct_number": 1,
+    "branch_ct_number": 3,
+    "main_branch_check_status": 0,
+    "protection_status": 0,
+    "charge_protect_threshold": 145,
+    "discharge_protect_threshold": 150,
+    "sub_pack_temp_alarm": 0,
+    "alias": "Home Lab Solix",
+    "name": "SOLIX F3000",
+    "input_power": "1416",
+    "bat_charge_power": "1416",
+    "bat_discharge_power": "0",
+    "charging_power": "1416",
+    "to_home_load": "0",
+    "battery_energy": "3317",
+    "owner_user_id": "0f119e60bbc4d47aa30cbd99c62ce5ddc8f9afec",
+    "bt_ble_mac": "3F84E2B7EB1D",
+    "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/pWQZvVJTXEd1AqJU/picl_A1782_US_normal.png",
+    "wifi_online": true,
+    "wifi_name": "wifi-network-1",
+    "relate_type": [
+      "ble",
+      "wifi"
+    ],
+    "charge": false,
+    "bws_surplus": "0",
+    "sw_version": "1.2.2.5",
+    "tag": "",
+    "platform_tag": "",
+    "rssi": "-51",
+    "wifi_signal": "97",
+    "intgr_device": null,
+    "wifi_mac": "9356BDD161CB",
+    "time_zone": "PST8PDT,M3.2.0,M11.1.0",
+    "group_info": null,
+    "is_ota_update": true,
+    "ota_version": "1.2.4.4",
+    "ota_children": [
+      {
+        "device_type": "A1782_esp32_low",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "0.3.4.0"
+      },
+      {
+        "device_type": "A1782_20Ah",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "3.8.2.7"
+      },
+      {
+        "device_type": "A1782_20Ah",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "2.4.6.3"
+      },
+      {
+        "device_type": "A1782_A17D4",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "1.0.1.6"
+      },
+      {
+        "device_type": "A1782_mcu_low",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "1.2.4.4"
+      }
+    ],
+    "is_support_wired": true,
+    "wired_connected": true,
+    "schedule": {
+      "mode_type": 5,
+      "custom_rate_plan": null,
+      "blend_plan": null,
+      "use_time": [
+        {
+          "sea": {
+            "start_month": 1,
+            "end_month": 5
+          },
+          "weekday": [
+            {
+              "start_time": 0,
+              "end_time": 8,
+              "type": 2
+            },
+            {
+              "start_time": 8,
+              "end_time": 15,
+              "type": 3
+            },
+            {
+              "start_time": 15,
+              "end_time": 17,
+              "type": 4
+            },
+            {
+              "start_time": 17,
+              "end_time": 20,
+              "type": 1
+            },
+            {
+              "start_time": 20,
+              "end_time": 24,
+              "type": 2
+            }
+          ],
+          "weekend": [
+            {
+              "start_time": 0,
+              "end_time": 8,
+              "type": 2
+            },
+            {
+              "start_time": 8,
+              "end_time": 15,
+              "type": 3
+            },
+            {
+              "start_time": 15,
+              "end_time": 17,
+              "type": 4
+            },
+            {
+              "start_time": 17,
+              "end_time": 20,
+              "type": 1
+            },
+            {
+              "start_time": 20,
+              "end_time": 24,
+              "type": 2
+            }
+          ],
+          "weekday_price": [
+            {
+              "price": "0.39",
+              "type": 2,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 3,
+              "sell_price": ""
+            },
+            {
+              "price": "0.57",
+              "type": 1,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 4,
+              "sell_price": ""
+            }
+          ],
+          "weekend_price": [
+            {
+              "price": "0.39",
+              "type": 2,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 3,
+              "sell_price": ""
+            },
+            {
+              "price": "0.57",
+              "type": 1,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 4,
+              "sell_price": ""
+            }
+          ],
+          "unit": "$",
+          "is_same": true
+        },
+        {
+          "sea": {
+            "start_month": 6,
+            "end_month": 9
+          },
+          "weekday": [
+            {
+              "start_time": 0,
+              "end_time": 8,
+              "type": 2
+            },
+            {
+              "start_time": 8,
+              "end_time": 15,
+              "type": 3
+            },
+            {
+              "start_time": 15,
+              "end_time": 17,
+              "type": 4
+            },
+            {
+              "start_time": 17,
+              "end_time": 20,
+              "type": 1
+            },
+            {
+              "start_time": 20,
+              "end_time": 24,
+              "type": 2
+            }
+          ],
+          "weekend": [
+            {
+              "start_time": 0,
+              "end_time": 8,
+              "type": 2
+            },
+            {
+              "start_time": 8,
+              "end_time": 15,
+              "type": 3
+            },
+            {
+              "start_time": 15,
+              "end_time": 17,
+              "type": 4
+            },
+            {
+              "start_time": 17,
+              "end_time": 20,
+              "type": 1
+            },
+            {
+              "start_time": 20,
+              "end_time": 24,
+              "type": 2
+            }
+          ],
+          "weekday_price": [
+            {
+              "price": "0.35",
+              "type": 3,
+              "sell_price": ""
+            },
+            {
+              "price": "0.75",
+              "type": 1,
+              "sell_price": ""
+            },
+            {
+              "price": "0.35",
+              "type": 2,
+              "sell_price": ""
+            },
+            {
+              "price": "0.35",
+              "type": 4,
+              "sell_price": ""
+            }
+          ],
+          "weekend_price": [
+            {
+              "price": "0.35",
+              "type": 3,
+              "sell_price": ""
+            },
+            {
+              "price": "0.55",
+              "type": 1,
+              "sell_price": ""
+            },
+            {
+              "price": "0.35",
+              "type": 2,
+              "sell_price": ""
+            },
+            {
+              "price": "0.35",
+              "type": 4,
+              "sell_price": ""
+            }
+          ],
+          "unit": "$",
+          "is_same": false
+        },
+        {
+          "sea": {
+            "start_month": 10,
+            "end_month": 12
+          },
+          "weekday": [
+            {
+              "start_time": 0,
+              "end_time": 8,
+              "type": 2
+            },
+            {
+              "start_time": 8,
+              "end_time": 15,
+              "type": 3
+            },
+            {
+              "start_time": 15,
+              "end_time": 17,
+              "type": 4
+            },
+            {
+              "start_time": 17,
+              "end_time": 20,
+              "type": 1
+            },
+            {
+              "start_time": 20,
+              "end_time": 24,
+              "type": 2
+            }
+          ],
+          "weekend": [
+            {
+              "start_time": 0,
+              "end_time": 8,
+              "type": 2
+            },
+            {
+              "start_time": 8,
+              "end_time": 15,
+              "type": 3
+            },
+            {
+              "start_time": 15,
+              "end_time": 17,
+              "type": 4
+            },
+            {
+              "start_time": 17,
+              "end_time": 20,
+              "type": 1
+            },
+            {
+              "start_time": 20,
+              "end_time": 24,
+              "type": 2
+            }
+          ],
+          "weekday_price": [
+            {
+              "price": "0.39",
+              "type": 2,
+              "sell_price": ""
+            },
+            {
+              "price": "0.57",
+              "type": 1,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 4,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 3,
+              "sell_price": ""
+            }
+          ],
+          "weekend_price": [
+            {
+              "price": "0.39",
+              "type": 2,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 3,
+              "sell_price": ""
+            },
+            {
+              "price": "0.57",
+              "type": 1,
+              "sell_price": ""
+            },
+            {
+              "price": "0.33",
+              "type": 4,
+              "sell_price": ""
+            }
+          ],
+          "unit": "$",
+          "is_same": false
+        }
+      ],
+      "manual_backup": {
+        "ranges": [
+          {
+            "start_time": 1793663340,
+            "end_time": 1793674140
+          }
+        ],
+        "switch": false
+      },
+      "reserved_soc": 10,
+      "dynamic_price": null,
+      "ai_ems": null,
+      "time_slot": null,
+      "schedule_mode": {
+        "last_select_mode": 5
+      },
+      "default_home_load": 0,
+      "max_load": 0,
+      "min_load": 0,
+      "step": 0
+    },
+    "preset_usage_mode": 5,
+    "preset_system_output_power": null,
+    "preset_tariff": 3,
+    "preset_tariff_price": "0.33",
+    "preset_tariff_currency": "$",
+    "preset_manual_backup_start": 1794939457,
+    "preset_manual_backup_end": 1794946657,
+    "preset_backup_option": true
+  },
+  "X66DPTCUFK5J7I6ED": {
+    "device_sn": "X66DPTCUFK5J7I6ED",
+    "device_code": "DPTC",
+    "is_admin": true,
+    "owner_user_id": "0f119e60bbc4d47aa30cbd99c62ce5ddc8f9afec",
+    "device_pn": "AS220",
+    "device_code_features": {},
+    "mqtt_supported": true,
+    "mqtt_overlay": false,
+    "mqtt_status_interval": 0,
+    "mqtt_status_request": true,
+    "type": "pps",
+    "bt_ble_mac": "B7A30FB9EC64",
+    "name": "SOLIX S2000",
+    "alias": "SOLIX S2000",
+    "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/UW7YiGQZ2ZbZN0xW/picl_AS220_US_normal.png",
+    "wifi_online": true,
+    "wifi_name": "wifi-network-1",
+    "relate_type": [
+      "ble",
+      "wifi"
+    ],
+    "charge": false,
+    "bws_surplus": "0",
+    "sw_version": "1.0.3.6",
+    "tag": "",
+    "platform_tag": "",
+    "rssi": "-65",
+    "wifi_signal": "57",
+    "intgr_device": null,
+    "wifi_mac": "BBDBD8CDEBD9",
+    "time_zone": "PST8PDT,M3.2.0,M11.1.0",
+    "group_info": null,
+    "battery_size": 2010,
+    "expansion_packs": 0,
+    "battery_capacity": "2010",
+    "is_ota_update": false,
+    "ota_version": "1.0.3.6",
+    "ota_children": [
+      {
+        "device_type": "AS220_mcu_low",
+        "need_update": false,
+        "force_upgrade": false,
+        "rom_version_name": "1.0.3.6"
+      },
+      {
+        "device_type": "AS220_esp32_low",
+        "need_update": false,
+        "force_upgrade": false,
+        "rom_version_name": "0.3.3.0"
+      }
+    ],
+    "disaster_support": {
+      "support_auto_disaster": true,
+      "support_country_code": [
+        {
+          "code": "US",
+          "google_code": "DPPGkrbTjmaYqzovrdsKLNfKHfv"
+        }
+      ]
+    },
+    "device_disaster_status": {
+      "auto_disaster_status": 2,
+      "manual_disaster_status": 2,
+      "current_disaster_detail": null
+    },
+    "device_disaster": {
+      "auto_disaster_switch": false,
+      "manual_disaster_switch": false,
+      "disaster_details": []
+    },
+    "currency": "$",
+    "ip_region": "US",
+    "pps_use_time": {
+      "ranges": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:00",
+          "type": 1
+        },
+        {
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "type": 3
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "24:00",
+          "type": 1
+        }
+      ],
+      "prices": [
+        {
+          "price": "0.38833",
+          "type": 1
+        },
+        {
+          "price": "0.33451",
+          "type": 3
+        }
+      ],
+      "unit": "$",
+      "reserve_power": 15
+    },
+    "preset_tariff": 3,
+    "preset_tariff_price": "0.33451",
+    "preset_tariff_currency": "$",
+    "energy_valid_time": "2026-11-16 10:18:26",
+    "energy_offset_seconds": 0,
+    "energy_offset_tz": 0,
+    "energy_offset_check": "2026-11-16 10:18:26",
+    "energy_time": null,
+    "energy_details": {
+      "today": {}
+    }
+  },
+  "SP1DJWUZD2EOT87Y1": {
+    "device_sn": "SP1DJWUZD2EOT87Y1",
+    "device_code": "DJWU",
+    "is_admin": true,
+    "owner_user_id": "0f119e60bbc4d47aa30cbd99c62ce5ddc8f9afec",
+    "device_pn": "A1763",
+    "device_code_features": {},
+    "mqtt_supported": true,
+    "mqtt_overlay": false,
+    "mqtt_status_interval": 0,
+    "mqtt_status_request": false,
+    "type": "pps",
+    "bt_ble_mac": "881FA05ECCD8",
+    "name": "SOLIX C1000 Gen 2",
+    "alias": "Home Patch Panel",
+    "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/07/iot-admin/x7ybg6h99q3YoV6M/picl_A1763_US_normal.png",
+    "wifi_online": true,
+    "wifi_name": "wifi-network-1",
+    "relate_type": [
+      "ble",
+      "wifi"
+    ],
+    "charge": false,
+    "bws_surplus": "0",
+    "sw_version": "1.1.4.8",
+    "tag": "",
+    "platform_tag": "",
+    "rssi": "-85",
+    "wifi_signal": "0",
+    "intgr_device": null,
+    "wifi_mac": "E8CFB16A6DDC",
+    "time_zone": "PST8PDT,M3.2.0,M11.1.0",
+    "group_info": null,
+    "battery_size": 1024,
+    "expansion_packs": 0,
+    "battery_capacity": "1024",
+    "is_ota_update": true,
+    "ota_version": "1.1.4.9",
+    "ota_children": [
+      {
+        "device_type": "A1763_mcu_low",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "1.1.4.9"
+      },
+      {
+        "device_type": "A1763_esp32_low",
+        "need_update": true,
+        "force_upgrade": false,
+        "rom_version_name": "0.3.3.0"
+      }
+    ],
+    "disaster_support": {
+      "support_auto_disaster": true,
+      "support_country_code": [
+        {
+          "code": "US",
+          "google_code": "DPPGkrbTjmaYqzovrdsKLNfKHfv"
+        },
+        {
+          "code": "CA",
+          "google_code": "QzpeQkOWnziXHhscVEhZjQdEWGf"
+        },
+        {
+          "code": "PR",
+          "google_code": "fAodtqQbHvHAVjLDvuWjyzzEtRQ"
+        }
+      ]
+    },
+    "device_disaster_status": {
+      "auto_disaster_status": 2,
+      "manual_disaster_status": 2,
+      "current_disaster_detail": null
+    },
+    "device_disaster": {
+      "auto_disaster_switch": false,
+      "manual_disaster_switch": false,
+      "disaster_details": []
+    },
+    "currency": "$",
+    "ip_region": "US",
+    "pps_use_time": {
+      "ranges": [
+        {
+          "start_time": "00:00",
+          "end_time": "08:00",
+          "type": 1
+        },
+        {
+          "start_time": "08:00",
+          "end_time": "17:00",
+          "type": 3
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "24:00",
+          "type": 1
+        }
+      ],
+      "prices": [
+        {
+          "price": "0.38833",
+          "type": 1
+        },
+        {
+          "price": "0.33451",
+          "type": 3
+        }
+      ],
+      "unit": "$",
+      "reserve_power": 15
+    },
+    "preset_tariff": 3,
+    "preset_tariff_price": "0.33451",
+    "preset_tariff_currency": "$",
+    "energy_valid_time": "2026-11-16 10:18:26",
+    "energy_offset_seconds": 0,
+    "energy_offset_tz": 0,
+    "energy_offset_check": "2026-11-16 10:18:26",
+    "energy_time": null,
+    "energy_details": {
+      "today": {}
+    }
+  }
+}

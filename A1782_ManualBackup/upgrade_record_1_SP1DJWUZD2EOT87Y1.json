@@ -1,0 +1,33 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "device_sn": "SP1DJWUZD2EOT87Y1",
+    "site_id": "",
+    "upgrade_record_list": [
+      {
+        "upgrade_time": "2026-08-14 13:11:13",
+        "upgrade_version": "v1.1.4.8",
+        "pre_version": "v1.1.4.6",
+        "upgrade_type": "1",
+        "upgrade_desc": "",
+        "device_sn": "SP1DJWUZD2EOT87Y1",
+        "device_name": "SOLIX C1000 Gen 2",
+        "upgrade_record_type": 0,
+        "child_upgrade_records": null
+      },
+      {
+        "upgrade_time": "2026-06-26 12:41:44",
+        "upgrade_version": "v1.1.4.6",
+        "pre_version": "v1.1.4.3",
+        "upgrade_type": "1",
+        "upgrade_desc": "",
+        "device_sn": "SP1DJWUZD2EOT87Y1",
+        "device_name": "SOLIX C1000 Gen 2",
+        "upgrade_record_type": 0,
+        "child_upgrade_records": null
+      }
+    ]
+  },
+  "trace_id": "cb66d975eafcff638a5e3edea75a2dbe"
+}

@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "currency_list": [
+      {
+        "symbol": "$",
+        "name": "AUD, CAD, USD"
+      },
+      {
+        "symbol": "\u043b\u0432",
+        "name": "BGN"
+      },
+      {
+        "symbol": "CHF",
+        "name": "CHF"
+      },
+      {
+        "symbol": "K\u010d",
+        "name": "CZK"
+      },
+      {
+        "symbol": "\u20ac",
+        "name": "EUR"
+      },
+      {
+        "symbol": "\u00a3",
+        "name": "GBP"
+      },
+      {
+        "symbol": "Ft",
+        "name": "HUF"
+      },
+      {
+        "symbol": "kr",
+        "name": "ISK, NOK, SEK"
+      },
+      {
+        "symbol": "\u00a5",
+        "name": "JPY"
+      },
+      {
+        "symbol": "\u20b1",
+        "name": "PHP"
+      },
+      {
+        "symbol": "z\u0142",
+        "name": "PLN"
+      },
+      {
+        "symbol": "Lei",
+        "name": "RON"
+      },
+      {
+        "symbol": "\u0e3f",
+        "name": "THB"
+      },
+      {
+        "symbol": "\u20b4",
+        "name": "UAH"
+      },
+      {
+        "symbol": "\u20ab",
+        "name": "VND"
+      }
+    ],
+    "default_currency": {
+      "symbol": "$",
+      "name": "AUD, CAD, USD"
+    }
+  },
+  "trace_id": "1ebe55cb56fc5a6dfa87ed82cffbab33"
+}

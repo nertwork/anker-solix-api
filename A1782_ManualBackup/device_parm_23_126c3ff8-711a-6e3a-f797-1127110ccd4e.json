@@ -1,0 +1,8 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "param_data": "{\"switch\":0}"
+  },
+  "trace_id": "db69672daa6ead99a3a5fcc9db4ad5e3"
+}

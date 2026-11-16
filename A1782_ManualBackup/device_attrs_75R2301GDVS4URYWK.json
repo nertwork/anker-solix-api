@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "device_sn": "75R2301GDVS4URYWK",
+    "attributes": {
+      "currency": "$",
+      "enable_0w": 0,
+      "ip_region": "US",
+      "legal_power_limit": 0,
+      "power_limit_option": [
+        350,
+        600,
+        800
+      ],
+      "power_limit_option_real": [
+        350,
+        600,
+        800
+      ],
+      "pps_use_time": "null",
+      "pv_power_limit": 3600,
+      "pv_power_limit_option": [
+        3600
+      ],
+      "region_microinverter_limit": {
+        "min": 800,
+        "max": 2000,
+        "init_step": 100,
+        "step": 100
+      },
+      "region_power_limit": 800,
+      "regulation_code": 0,
+      "rssi": "-51",
+      "switch_0w": 1,
+      "tag": {
+        "id": 4,
+        "name": "Living Room",
+        "img": "https://d38dd6169df8my.cloudfront.net/icon/A17X8/living_room.png",
+        "alias": "Living Room"
+      },
+      "user_power_limit": 0
+    }
+  },
+  "trace_id": "a77ea0b01763ceecdb39becc88009237"
+}

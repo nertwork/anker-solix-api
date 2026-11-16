@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "power": [
+      {
+        "time": "2026-11-15",
+        "value": "0.00",
+        "rods": [
+          {
+            "from": "0.00",
+            "to": "0.0000",
+            "source_type": "grid"
+          },
+          {
+            "from": "0.0000",
+            "to": "0.0000",
+            "source_type": "pps"
+          }
+        ]
+      },
+      {
+        "time": "2026-11-16",
+        "value": "0.00",
+        "rods": [
+          {
+            "from": "0.00",
+            "to": "0.0000",
+            "source_type": "grid"
+          },
+          {
+            "from": "0.0000",
+            "to": "0.0000",
+            "source_type": "pps"
+          }
+        ]
+      }
+    ],
+    "charge_trend": null,
+    "charge_level": null,
+    "forecast_trend": null,
+    "power_unit": "",
+    "charge_total": "",
+    "charge_unit": "",
+    "discharge_total": "",
+    "discharge_unit": "",
+    "charging_pre": "",
+    "electricity_pre": "",
+    "others_pre": "",
+    "statistics": [
+      {
+        "type": "1",
+        "total": "3176.64",
+        "unit": "kWh"
+      },
+      {
+        "type": "2",
+        "total": "3167.11",
+        "unit": "kg"
+      },
+      {
+        "type": "3",
+        "total": "1060.34",
+        "unit": "$"
+      }
+    ],
+    "battery_discharging_total": "",
+    "solar_to_grid_total": "",
+    "grid_to_home_total": "0.0000",
+    "ac_out_put_total": "",
+    "home_usage_total": "0.0000",
+    "solar_total": "",
+    "trend_unit": "",
+    "battery_to_home_total": "0.0000",
+    "smart_plug_info": null,
+    "local_time": "",
+    "grid_to_battery_total": "",
+    "grid_imported_total": "",
+    "solar_to_battery_total": "",
+    "solar_to_home_total": "",
+    "forecast_total": "",
+    "sop_grid_to_battery_total": "",
+    "third_solar_to_battery_total": "",
+    "pps_list": null,
+    "total_energy_unit": "kwh",
+    "third_party_pv_to_bat": "",
+    "third_party_pv_to_grid": "",
+    "grid_exported_total": "",
+    "device_energy_info": null,
+    "charging_pile_device_energy_info": null,
+    "tab_switch": null,
+    "third_party_pv_to_home": ""
+  },
+  "trace_id": "b03fbba1c65ea3a0adae45bfc709290f"
+}

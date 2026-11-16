@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "list": [
+      {
+        "name": "Anker Power",
+        "address": "wss://charging-ocppproxy-us-prod.anker.com/ocppj",
+        "certificate": "",
+        "icon": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/08/iot-admin/kysfyXkCu0HHpXbe/20260908-101629.png",
+        "source": 0
+      }
+    ]
+  },
+  "trace_id": "3da192b9b8f88eea4e14f2f8ce80d27a"
+}

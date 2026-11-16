@@ -1,0 +1,61 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "site_list": [
+      {
+        "site_id": "126c3ff8-711a-6e3a-f797-1127110ccd4e",
+        "site_name": "Garage",
+        "site_img": "",
+        "device_type_list": [
+          6,
+          8
+        ],
+        "ms_type": 1,
+        "power_site_type": 13,
+        "is_allow_delete": true,
+        "support_device_models": [
+          "A1782",
+          "A17X7US"
+        ],
+        "current_site_device_models": [
+          "A17X7US",
+          "A1782"
+        ],
+        "init_status": 1,
+        "site_device_list": [
+          {
+            "device_model": "A17X7US",
+            "device_sn": "3VIC64BMM5YYRA1O",
+            "device_name": "Smart Meter",
+            "device_img": "",
+            "device_type": 6,
+            "status": 1,
+            "init_status": 1,
+            "create_time": 0,
+            "update_time": 0,
+            "feature": null
+          },
+          {
+            "device_model": "A1782",
+            "device_sn": "75R2301GDVS4URYWK",
+            "device_name": "Home Lab Solix",
+            "device_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/pWQZvVJTXEd1AqJU/picl_A1782_US_normal.png",
+            "device_type": 8,
+            "status": 1,
+            "init_status": 0,
+            "create_time": 0,
+            "update_time": 0,
+            "feature": null
+          }
+        ],
+        "is_site_created_by_installer": false,
+        "reason_code": 0,
+        "not_allow_delete_reason": [],
+        "not_allow_device_add_remove": 0,
+        "not_allow_add_remove_device_type": []
+      }
+    ]
+  },
+  "trace_id": "1645b57fcef30ee6af448c8e5f11741f"
+}

@@ -1,0 +1,41 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "extender_system_relation_ota": [
+      {
+        "device_model": "A1782",
+        "versions": {
+          "A1782": "v1.2.1.6",
+          "A7320": "v0.0.6.2"
+        }
+      },
+      {
+        "device_model": "A1790P",
+        "versions": {
+          "A1790P": "v3.7.0",
+          "A7320": "v0.0.6.2"
+        }
+      },
+      {
+        "device_model": "A1790",
+        "versions": {
+          "A1790": "v2.6.5",
+          "A7320": "v0.0.6.8"
+        }
+      }
+    ],
+    "site_relation_ota": [
+      {
+        "device_model": "A17B1",
+        "versions": {
+          "A1790": "v2.7.0",
+          "A1790P": "v3.9.0",
+          "A17B1": "v1.7.0",
+          "A7320": "v1.0.1.3"
+        }
+      }
+    ]
+  },
+  "trace_id": "feebaedd33daf0bbcd47ad76fbf5d46d"
+}

@@ -1,0 +1,22 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "device_sn": "3VIC64BMM5YYRA1O",
+    "site_id": "",
+    "upgrade_record_list": [
+      {
+        "upgrade_time": "2026-02-22 00:44:21",
+        "upgrade_version": "v1.0.0.15",
+        "pre_version": "v1.0.0.9",
+        "upgrade_type": "1",
+        "upgrade_desc": "",
+        "device_sn": "3VIC64BMM5YYRA1O",
+        "device_name": "Smart Meter",
+        "upgrade_record_type": 0,
+        "child_upgrade_records": null
+      }
+    ]
+  },
+  "trace_id": "edf551a70d371ab2cab712302ff8abef"
+}

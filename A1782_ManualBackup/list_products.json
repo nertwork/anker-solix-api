@@ -1,0 +1,3721 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": [
+    {
+      "name": "Portable Power Station",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/d1194a2f-2926-49a5-80f1-fb5899aeecb3/picl_addadevice_list_PoweredClooer.png",
+      "index": 1,
+      "products": [
+        {
+          "name": "767 PowerHouse (SOLIX F2000)",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/1e53c977-ce85-4eed-b453-23b28abea2ce/picl_A1780_normal.png",
+          "index": 0,
+          "product_code": "A1780",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/b5qUNMmbgp9O751N/A1780_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "X2Y",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/w3jfYvFOQvoWyZFL/picl_A1780_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1780111",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "4QY",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/w3jfYvFOQvoWyZFL/picl_A1780_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1780111-5",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "X5F",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/tVPcVHc09Kfb930F/picl_A1780_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A1780511",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ZWR",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/RJPSedAMizCkFa6B/picl_A1780_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A1780211",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ZX4",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/MogLuX4LgXqSwATj/picl_A1780_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1780311",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "25N",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/V1h9JEVyZ4xVLCMC/picl_A1780_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1780C11",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "25M",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/1e53c977-ce85-4eed-b453-23b28abea2ce/picl_A1780_normal.png",
+              "custom_fields": "",
+              "sku": "25M",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "25P",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/1e53c977-ce85-4eed-b453-23b28abea2ce/picl_A1780_normal.png",
+              "custom_fields": "",
+              "sku": "25P",
+              "name": "767 PowerHouse (SOLIX F2000)",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "SOLIX C2000 Gen 2",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/08/11/iot-admin/lc5znmo24MKk9cHs/picl_A1783_US_normal.png",
+          "index": 1,
+          "product_code": "A1783",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/YroKsiw7Sue34IIU/A1783_gudie.gif",
+          "net_guideline": "1. Press and hold the power button for 3 seconds. Once the device is powered on, the Bluetooth logo will start flashing. \n2. If the logo doesn't flash, power off the device first. Then press and hold the power button for 7 seconds until the Bluetooth logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "DKKE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/fqgtQp4iv9Ve1f90/picl_A1783_US_normal.png",
+              "custom_fields": "",
+              "sku": "A17831A1",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DL9M",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/gGImmXCyBtySl2aV/picl_A1783_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A17835Z1",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKKL",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/fqgtQp4iv9Ve1f90/picl_A1783_US_normal.png",
+              "custom_fields": "",
+              "sku": "A17831A1-5",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKKF",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/xgaS3EGyjPAL6jNd/picl_A1783_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17833A1",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DLFS",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/4gLFPQdPZlo7kb4Z/picl_A1783_JP_White_normal.png",
+              "custom_fields": "",
+              "sku": "A1783521",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKHM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/bCv1CI2uBDx1pOny/picl_A1783_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A17832A1",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKKG",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/OWujCDoYe9EA6ka1/picl_A1783_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1783CA1",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMTH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/2GFUYTavpDrO4YXx/picl_A1783_\u56fd\u9645\u89c4_normal.png",
+              "custom_fields": "",
+              "sku": "A17830A2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMQH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/fqgtQp4iv9Ve1f90/picl_A1783_US_normal.png",
+              "custom_fields": "",
+              "sku": "A17831A2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DN2H",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/fqgtQp4iv9Ve1f90/picl_A1783_US_normal.png",
+              "custom_fields": "",
+              "sku": "A17831A2-5",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMQK",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/gGImmXCyBtySl2aV/picl_A1783_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A17835Z2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DN2K",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/4gLFPQdPZlo7kb4Z/picl_A1783_JP_White_normal.png",
+              "custom_fields": "",
+              "sku": "A1783522",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DN2J",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/xgaS3EGyjPAL6jNd/picl_A1783_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17833A2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMQJ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/bCv1CI2uBDx1pOny/picl_A1783_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A17832A2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMSM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/OWujCDoYe9EA6ka1/picl_A1783_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1783CA2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DN5F",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/2GFUYTavpDrO4YXx/picl_A1783_\u56fd\u9645\u89c4_normal.png",
+              "custom_fields": "",
+              "sku": "A1783EA2",
+              "name": "SOLIX C2000 Gen 2",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/6Z8gdKD3OZ8p0qNF/A1783_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX F3000",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/pWQZvVJTXEd1AqJU/picl_A1782_US_normal.png",
+          "index": 1,
+          "product_code": "A1782",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/dI67I9an6bmu0EpD/A1782_gudie.gif",
+          "net_guideline": "Press the IoT button until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "2301",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/WK5VIPHq7wemhyA4/picl_A1782_US_normal%281%29.png",
+              "custom_fields": "",
+              "sku": "A1782111",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2302",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/WK5VIPHq7wemhyA4/picl_A1782_US_normal%281%29.png",
+              "custom_fields": "",
+              "sku": "A1782111-5",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2309",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/UvhcnjNI61IxYcf5/picl_A1782_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A1782511",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2307",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/f1sOdaOhMWJXCSB7/picl_A1782_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A1782211",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2308",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/CmezTzbskVZTuy8B/picl_A1782_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1782311",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2310",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/RrjAYMfCfxq0IOjI/picl_A1782_AU_normal.png",
+              "custom_fields": "",
+              "sku": "1782C11",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DLX7",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/WK5VIPHq7wemhyA4/picl_A1782_US_normal%281%29.png",
+              "custom_fields": "",
+              "sku": "A1782112",
+              "name": "SOLIX F3000",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/CUxdNIBeheAggpVa/A1782_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the IoT button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C2000X Gen 2",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/kgPBdI4I0T5STNiU/picl_A1785_US_normal.png",
+          "index": 1,
+          "product_code": "A1785",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/xHqyOOeCdnWlshYe/A1785_guide.gif",
+          "net_guideline": "1. Press and hold the power button for 3 seconds. Once the device is powered on, the Bluetooth logo will start flashing. \n2. If the logo doesn't flash, power off the device first. Then press and hold the power button for 7 seconds until the Bluetooth logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "DKVP",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/15/iot-admin/18jGncwTX568s2ip/picl_A1785_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1785111",
+              "name": "SOLIX C2000X Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMT2",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/17/iot-admin/906K2XUemboIi9px/output.lin.png",
+              "custom_fields": "",
+              "sku": "A1785521",
+              "name": "SOLIX C2000 Gen 2 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMQL",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/15/iot-admin/18jGncwTX568s2ip/picl_A1785_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1785112",
+              "name": "SOLIX C2000X Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMSQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/17/iot-admin/906K2XUemboIi9px/output.lin.png",
+              "custom_fields": "",
+              "sku": "A1785522",
+              "name": "SOLIX C2000X Gen 2",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/BpQkoXwiVoJmV7Bh/A1785_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "C1000 Gen 2 LE",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/12/31/iot-admin/0bl2t8fR4ZcyHsWT/picl_A1764_JP_White_normal.png",
+          "index": 1,
+          "product_code": "AS100",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/20/iot-admin/pAE0YDFMQsgJIovR/A1764_guide.gif",
+          "net_guideline": "1. Press and hold the power button for 3 seconds. Once the device is powered on, the Bluetooth logo will start flashing.\n2. If the logo doesn't flash, power off the device first. Then press and hold the power button for 7 seconds until the Bluetooth logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "DPEG",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/12/31/iot-admin/5uxYcjN5imbM3sZe/picl_A1764_JP_White_normal.png",
+              "custom_fields": "",
+              "sku": "AS100521",
+              "name": "C1000 Gen 2 LE",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/20/iot-admin/i7h6ty21LfxKEIp1/A1764_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX S5000",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/15/iot-admin/Q7Z0lKypMakeWcfF/picl_A17C8_US_normal.png",
+          "index": 1,
+          "product_code": "AS510",
+          "custom_fields": "{\"is_site_device\":false,\"need_auth\":false,\"pn_in_site_type\":[\"single\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/15/iot-admin/FGnAwXbiNEVaVC43/A17C8_guide.gif",
+          "net_guideline": "Press and hold the AC button, and simultaneously press the power button three times. Once the device is powered on, the IoT logo will start flashing.",
+          "p_codes": [
+            {
+              "p_code": "DQZQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/16/iot-admin/NQUe4CMK0AFwKRnJ/picl_A17C8_US_normal.png",
+              "custom_fields": "",
+              "sku": "AS5101A1",
+              "name": "Anker SOLIX S5000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DRPY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/16/iot-admin/NQUe4CMK0AFwKRnJ/picl_A17C8_US_normal.png",
+              "custom_fields": "",
+              "sku": "AS510JA1",
+              "name": "Anker SOLIX S5000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2ZQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/16/iot-admin/NQUe4CMK0AFwKRnJ/picl_A17C8_US_normal.png",
+              "custom_fields": "",
+              "sku": "AS5101A1-5",
+              "name": "Anker SOLIX S5000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DS4G",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/16/iot-admin/NQUe4CMK0AFwKRnJ/picl_A17C8_US_normal.png",
+              "custom_fields": "",
+              "sku": "AS510JA1-5",
+              "name": "Anker SOLIX S5000",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/15/iot-admin/1wDLq3D6l24rwtiR/20260915-180512.gif",
+          "conn_confirm_tips": "Press the device's power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX S2000",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/UW7YiGQZ2ZbZN0xW/picl_AS220_US_normal.png",
+          "index": 1,
+          "product_code": "AS220",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/pPSb8jiD11Q1X4a5/AS220_gudie.gif",
+          "net_guideline": "Press and hold the AC button, and simultaneously press the power button three times. Once the device is powered on, the IoT logo will start flashing.",
+          "p_codes": [
+            {
+              "p_code": "DPTC",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/05/07/iot-admin/Vo7DLUJusYtveiVW/picl_AS220_US_normal.png",
+              "custom_fields": "",
+              "sku": "AS220111",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E25C",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/05/07/iot-admin/Vo7DLUJusYtveiVW/picl_AS220_US_normal.png",
+              "custom_fields": "",
+              "sku": "AS220111-5",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQ5C",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/wrRVYzlCOnAtffbY/S2000_JP.png",
+              "custom_fields": "",
+              "sku": "AS220511",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E33S",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/wrRVYzlCOnAtffbY/S2000_JP.png",
+              "custom_fields": "",
+              "sku": "AS220511-72",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQRT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/iZyVkJPXVV0pFbPV/S2000_JP\uff08\u7c73\u8272\uff09.png",
+              "custom_fields": "",
+              "sku": "AS220521-72",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E342",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/nrQRkQSOj5unfaou/S2000_UK.png",
+              "custom_fields": "",
+              "sku": "AS220211",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E343",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/7oA1HDbRihBDYdx0/S2000_EU.png",
+              "custom_fields": "",
+              "sku": "AS220311",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E33R",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/u5qhtAyslzdEp4BZ/S2000_AU.png",
+              "custom_fields": "",
+              "sku": "AS220C11",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2WQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/Yd661i3gR4WOe886/S2000_INT.png",
+              "custom_fields": "",
+              "sku": "AS220011",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DRCF",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/07/09/iot-admin/ZpLye130ERYxQBpc/S2000-\u5168\u89c4\u683c\uff08\u7070\uff09_product Image_Main View_01_V1_RSA.png",
+              "custom_fields": "",
+              "sku": "AS220911",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E43A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/06/02/iot-admin/Yd661i3gR4WOe886/S2000_INT.png",
+              "custom_fields": "",
+              "sku": "AS220E11",
+              "name": "SOLIX S2000",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/pNTI39y965QxB7Jb/AS220_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "F1200 (Bluetooth)",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/f1f775db-5f90-4776-963d-d62b4474931a/picl_A1770up_normal.png",
+          "index": 2,
+          "product_code": "A1770",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/ffUvXYLpgAewfD3V/A1770P_A1771_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "3M6",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/2YCzZXhWy45aVa04/picl_A1770up_US_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A1770113",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LV",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/rWj17rgg7wbnVtg6/picl_A1770up_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A1770213",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LW",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/pdLL1U6n6C6XjgYl/picl_A1770up_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1770C13",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3M7",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/fVk78nYrlJRrlwds/picl_A1770up_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1770313",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "539",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/2YCzZXhWy45aVa04/picl_A1770up_US_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A1770113-5",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ZZ2",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/f1f775db-5f90-4776-963d-d62b4474931a/picl_A1770up_normal.png",
+              "custom_fields": "",
+              "sku": "ZZ2",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5N7",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/f1f775db-5f90-4776-963d-d62b4474931a/picl_A1770up_normal.png",
+              "custom_fields": "",
+              "sku": "5N7",
+              "name": "F1200 (Bluetooth)",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "F1200 (Bluetooth and WLAN)",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+          "index": 3,
+          "product_code": "A1771",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/JL1iIexecSGXcW0x/A1770P_A1771_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "3NK",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/C3AM1t2HdxAQy28F/picl_A1771_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1771311",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "4S5",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "4S5",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3PA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "3PA",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3NL",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "3NL",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3NH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "3NH",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5YM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "5YM",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3NJ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "3NJ",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3PC",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/b314ddf9-543a-4092-b435-1df7f07f6e34/picl_A1771_normal.png",
+              "custom_fields": "",
+              "sku": "3PC",
+              "name": "F1200 (Bluetooth and WLAN)",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/28sxsvQnwrFgbXF4/A1771_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX F2600",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2023/09/07/iot-admin/LlUUe63KpZgKcVC1/picl_A1781_normal.png",
+          "index": 4,
+          "product_code": "A1781",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/iZBINsHVUKhQ8tKa/A1781_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "3NM",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/SbvPklW5PJDSxRyX/picl_A1781_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1781111",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3NQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/j076SsMMWivR9D5d/picl_A1781_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1781511",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3NN",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/YeU0nRNq9BOHgVpw/picl_A1781_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1781211",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "7NX",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/YeU0nRNq9BOHgVpw/picl_A1781_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1781211-40",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3NP",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/sUly2XN4s9T6elX5/picl_A1781_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1781311",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "7R2",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/s1keOQyRcQZ6RZKl/picl_A1781_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A1781911",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3PE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2023/09/07/iot-admin/LlUUe63KpZgKcVC1/picl_A1781_normal.png",
+              "custom_fields": "",
+              "sku": "3PE",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3PD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/11/04/iot-admin/YcmPvssjQL3SzXCn/picl_A1781_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1781C11",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            },
+            {
+              "p_code": "69G",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/j076SsMMWivR9D5d/picl_A1781_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1781111-5",
+              "name": "SOLIX F2600",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/nsL9GnWj1FN4LRLL/A1781_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C800",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/Ca7enbON9cl4TLzq/picl_A1753_normal.png",
+          "index": 5,
+          "product_code": "A1753",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/fWcsmSSZTy48vx39/A1753_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "5ZE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/rF74p1Mn1NfcYy86/picl_A1753_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1753CA1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/yig8pBgzUpgoHiHg/picl_A1753_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17533A1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/LNZNHIDPefpR9d8W/picl_A1753_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17532A1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6TY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/LNZNHIDPefpR9d8W/picl_A1753_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17532A1-40",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5XG",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17531A1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZC",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17535A1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6TU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17531A1-5",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/7QaoX9CmamShlLNO/picl_A1753_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A17539A1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EC0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/rF74p1Mn1NfcYy86/picl_A1753_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1753CZ1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DZB",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/yig8pBgzUpgoHiHg/picl_A1753_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17533Z1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EA0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/LNZNHIDPefpR9d8W/picl_A1753_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17532Z1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DZ1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17531Z1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EAB",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17535Z1",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EH0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17531Z1-5",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZF",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/Ca7enbON9cl4TLzq/picl_A1753_normal.png",
+              "custom_fields": "",
+              "sku": "5ZF",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "CLC",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZyOVqdSRUUhSltAi/picl_A1753_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B17535Z5",
+              "name": "SOLIX C800",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/VeBRh1TgN80iaEcr/A1753_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX F1500",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2023/09/07/iot-admin/B3VAYEyhtEZfyudB/picl_A1772_normal.png",
+          "index": 5,
+          "product_code": "A1772",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/h8axmjIcaEaxq8yK/A1772_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "6TZ",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/dYeu5mRKx1J4cL9h/picl_A1772_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1772111",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            },
+            {
+              "p_code": "75Z",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/dYeu5mRKx1J4cL9h/picl_A1772_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1772511",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            },
+            {
+              "p_code": "7CU",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/dYeu5mRKx1J4cL9h/picl_A1772_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1772111-5",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            },
+            {
+              "p_code": "79W",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/Tkj5YKej2qa9OVF7/picl_A1772_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1772211",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            },
+            {
+              "p_code": "7TP",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/Tkj5YKej2qa9OVF7/picl_A1772_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1772211-40",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6XX",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/oNs7WtyMy22zQ0v6/picl_A1772_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1772311",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6UA",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/09/07/iot-admin/3aHcelAcu72HfBfy/picl_A1772_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A1772911",
+              "name": "SOLIX F1500",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C1000(X)",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/tjgo5KtfFW26RnnZ/picl_A1761_normal.png",
+          "index": 6,
+          "product_code": "A1761",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/lzrolT6JZw2CW0Ck/A1761_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "9FD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1761111",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5YX",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17611A1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZV",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17615A1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "AA1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1761521",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "766",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17611A1-5",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "A3K",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1761111-5",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/KZgbKAcQlFLeaOfN/picl_A1761_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17612A1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "9FE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/KZgbKAcQlFLeaOfN/picl_A1761_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1761211",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6TV",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/KZgbKAcQlFLeaOfN/picl_A1761_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17612A1-40",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZZ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/d9NBoY0BHQqx4Ls0/picl_A1761_TW_normal.png",
+              "custom_fields": "",
+              "sku": "A1761WA1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6NX",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/BrFW0AXzG1Jtl06n/picl_A1761_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17613A1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "9FQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/BrFW0AXzG1Jtl06n/picl_A1761_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1761311",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZX",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/dFliHtZ0aC834azH/picl_A1761_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1761CA1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZW",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/VHmZHx49LvOgzpAb/picl_A1761_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A17619A1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E0Y",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17611Z1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQ0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17615Z1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E1H",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17611Z1-5",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E1C",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/KZgbKAcQlFLeaOfN/picl_A1761_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17612Z1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E1K",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/KZgbKAcQlFLeaOfN/picl_A1761_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17612Z1-40",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E1B",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/BrFW0AXzG1Jtl06n/picl_A1761_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17613Z1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E1F",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/dFliHtZ0aC834azH/picl_A1761_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1761CZ1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E8M",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/VHmZHx49LvOgzpAb/picl_A1761_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A17619Z1",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/tjgo5KtfFW26RnnZ/picl_A1761_normal.png",
+              "custom_fields": "",
+              "sku": "5ZY",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E1D",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/tjgo5KtfFW26RnnZ/picl_A1761_normal.png",
+              "custom_fields": "",
+              "sku": "E1D",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "9FH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1761511",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ETE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B176111Z",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D6U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B1761111-5",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "CKX",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B17615Z7",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "CLA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B1761517",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2JR",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B1761529",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "05U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/04/07/iot-admin/WcgeLK3EczR7VLuG/picl_A1762_normal.png",
+              "custom_fields": "",
+              "sku": "A1762N61-72",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "Q64",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1761521-72",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "Q62",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/YyfB87rHPoPbwaNF/picl_A1761_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17615Z1-72",
+              "name": "SOLIX C1000(X)",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/BKHeWHEqkfUgz9ui/A1761_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C800 Plus",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/mCRZd3kvY216BRnv/picl_A1754_normal.png",
+          "index": 6,
+          "product_code": "A1754",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/YLvmnAHo9N0TkA3U/A1754_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "5ZK",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/JTNMCwcEra2QDFgj/picl_A1754_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1754CA1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZG",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZfXoIW4PtixntQIS/picl_A1754_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17543A1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/i4hr16WPwIKe2ZPQ/picl_A1754_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17542A1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "75U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/i4hr16WPwIKe2ZPQ/picl_A1754_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17542A1-40",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5YU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17541A1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZJ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17545A1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6U6",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17541A1-5",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZS",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/MZBiozF2vCGhUBnv/picl_A1754_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A17549A1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "L0K",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/JTNMCwcEra2QDFgj/picl_A1754_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1754CZ1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EE0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/ZfXoIW4PtixntQIS/picl_A1754_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17543Z1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EF0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/i4hr16WPwIKe2ZPQ/picl_A1754_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17542Z1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EJ8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/i4hr16WPwIKe2ZPQ/picl_A1754_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17542Z1-40",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ED8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17541Z1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EF8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17545Z1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "NT1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1754511",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EJ0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/6MxNXF5LvlAVDuXW/picl_A1754_US_JP_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A17541Z1-5",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "EG8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/17/iot-admin/MZBiozF2vCGhUBnv/picl_A1754_ZA_normal.png",
+              "custom_fields": "",
+              "sku": "A17549Z1",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5ZR",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/17/iot-admin/mCRZd3kvY216BRnv/picl_A1754_normal.png",
+              "custom_fields": "",
+              "sku": "5ZR",
+              "name": "SOLIX C800 Plus",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/oeQ8UOsznZmCb3T5/A1754_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX F3800",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2023/11/22/iot-admin/bXAgVYcpnksWkU4g/picl_A1790_normal.png",
+          "index": 6,
+          "product_code": "A1790",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/IMmaK8BuWV57PtqO/A1790_A1790P_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "744",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2023/11/27/iot-admin/IxoS9Jnqq7oSMEoP/picl_A1790_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1790111",
+              "name": "SOLIX F3800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "746",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2023/11/27/iot-admin/IxoS9Jnqq7oSMEoP/picl_A1790_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1790511",
+              "name": "SOLIX F3800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "BH3",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2023/11/27/iot-admin/IxoS9Jnqq7oSMEoP/picl_A1790_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1790111-5",
+              "name": "SOLIX F3800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6RT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2023/11/27/iot-admin/IxoS9Jnqq7oSMEoP/picl_A1790_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1790211",
+              "name": "SOLIX F3800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6S6",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2023/11/27/iot-admin/IxoS9Jnqq7oSMEoP/picl_A1790_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1790311",
+              "name": "SOLIX F3800",
+              "sku_type": 1
+            },
+            {
+              "p_code": "73U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2023/11/27/iot-admin/IxoS9Jnqq7oSMEoP/picl_A1790_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1790C11",
+              "name": "SOLIX F3800",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/8oINq7FsVJBXjpmw/A1790_A1790P_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C800X",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/24/iot-admin/yELAMIYOnE9pKq4d/picl_A1755_US_CA_normal.png",
+          "index": 10,
+          "product_code": "A1755",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/u6LUcwKexUDzo7rJ/A1755_guide.gif",
+          "net_guideline": "Press the IoT button and the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "D87",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/24/iot-admin/ceCKLjbO0xHXy1bz/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1755111-5",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D7B",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/24/iot-admin/cnyYAyaSTwvXTb2B/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1755111",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D89",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/24/iot-admin/yELAMIYOnE9pKq4d/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1755311",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D82",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/24/iot-admin/yELAMIYOnE9pKq4d/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "D82",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D84",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/24/iot-admin/yELAMIYOnE9pKq4d/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "D84",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D81",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/24/iot-admin/yELAMIYOnE9pKq4d/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "A1755211",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D5U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/24/iot-admin/ceCKLjbO0xHXy1bz/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B1755111-5",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FRT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/24/iot-admin/ceCKLjbO0xHXy1bz/picl_A1755_US_CA_normal.png",
+              "custom_fields": "",
+              "sku": "B1755116",
+              "name": "SOLIX C800X",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/zIpeUcvdulUGAO4j/A1755_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C300",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/07/10/iot-admin/xEtaE6fpxrXiKENG/picl_A1722_normal.png",
+          "index": 11,
+          "product_code": "A1722",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/oxdUFrB1GtztyHfd/A1722_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "SB1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "A17221Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SFB",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "A17221Z1-5",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SB7",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "A17225Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "0HM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "A1722511",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SB3",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/HmU8N0WE9mIqSgh7/picl_A1722_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17222Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SB5",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/98dpALTa2PgnQXyk/picl_A1722_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17223Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SBD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/tVyKb8TjIYCv7JNC/picl_A1722_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1722CZ1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SG1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/Nmb2YRBa2zsmwAk6/picl_A1722_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17222Z1-40",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "GQR",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "B17221Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FKM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "B17221Z1-5",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "P2M",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "B17225Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "G9A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/10/iot-admin/7akcNw5KulNT3j9x/picl_A1722_normal.png",
+              "custom_fields": "",
+              "sku": "B1722511",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FAA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/Nmb2YRBa2zsmwAk6/picl_A1722_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A17227Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "YNH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/11/04/iot-admin/3Aypny1eh99eQBKI/picl_A1722_%E5%9B%BD%E9%99%85%E8%A7%84_normal.png",
+              "custom_fields": "",
+              "sku": "A17220Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "YNF",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/11/04/iot-admin/3Aypny1eh99eQBKI/picl_A1722_%E5%9B%BD%E9%99%85%E8%A7%84_normal.png",
+              "custom_fields": "",
+              "sku": "A1722EZ1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SBB",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/7NUEYFrWJ7eVaLPp/picl_A1722_CN_normal.png",
+              "custom_fields": "",
+              "sku": "A17226Z1",
+              "name": "SOLIX C300",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/KDcoJyRmOiFIyaBe/A1722_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C300 DC",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/07/10/iot-admin/pjzgNrdsXdXxLbLz/picl_A1726_normal%20%281%29.png",
+          "index": 12,
+          "product_code": "A1726",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/PLsco9g2ghzO4ZOI/A1726_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "UW0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "A17260Z1",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "136",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "A17260Z1-5",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "0LD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "A17265Z1",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "0HP",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "A1726511",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "CYM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "B17260Z1",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2JU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "B17260Z1-5",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FAD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "A17267Z1",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DAV",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/N4Bh1KqNbjFFYw4O/picl_A1726_normal%20%282%29.png",
+              "custom_fields": "",
+              "sku": "A17266Z1",
+              "name": "SOLIX C300 DC",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/hirzMn3KHvnG3E8F/A1726_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C300X",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/07/23/iot-admin/JSEfhPVNP3iXOg5R/picl_A1723_A1725_US_JP_CA_normal%20%281%29.png",
+          "index": 13,
+          "product_code": "A1723",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/G5P6dxbfKfUXjXeg/A1723_A1725_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "SBH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/23/iot-admin/kZGfW68pqsBu6C9A/picl_A1723_A1725_US_JP_CA_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A1723111",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SEB",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/23/iot-admin/kZGfW68pqsBu6C9A/picl_A1723_A1725_US_JP_CA_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A1723111-5",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SBJ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/YAS06dgIEoYptTUL/picl_A1723_A1725_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1723211",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SBK",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/DT0mkOs1Q3m2bsML/picl_A1723_A1725_EU_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A1723311",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FYT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/07/23/iot-admin/kZGfW68pqsBu6C9A/picl_A1723_A1725_US_JP_CA_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "B1723111",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "G2E",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/YAS06dgIEoYptTUL/picl_A1723_A1725_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "B1723211",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FG7",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/DT0mkOs1Q3m2bsML/picl_A1723_A1725_EU_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "B1723311",
+              "name": "SOLIX C300X",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/kHydygZ9dYoUtst7/A1723_25_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "767 Power House (SOLIX F2000) with WLAN",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/05/08/iot-admin/5vNiUAJXgDtL8WcF/picl_A1780_normal%20%281%29.png",
+          "index": 20,
+          "product_code": "A1780P",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/qrg0p4R1r62GGWXk/A1780p_guide.gif",
+          "net_guideline": "Press the IoT button until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "S0U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/06/11/iot-admin/iwH9zMUWPeqTUxyG/picl_A1780P_US_CA_normal%202.png",
+              "custom_fields": "",
+              "sku": "S0U",
+              "name": "767 Power House (SOLIX F2000) with WLAN",
+              "sku_type": 1
+            },
+            {
+              "p_code": "S1A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/06/11/iot-admin/SHRLhZuzj1mJiyyj/picl_A1780P_US_CA_normal%202.png",
+              "custom_fields": "",
+              "sku": "A1780112-5",
+              "name": "767 Power House (SOLIX F2000) with WLAN",
+              "sku_type": 1
+            },
+            {
+              "p_code": "S18",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/06/11/iot-admin/dnGaTGEBfL1LMPLB/picl_A1780P_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A1780512",
+              "name": "767 Power House (SOLIX F2000) with WLAN",
+              "sku_type": 1
+            },
+            {
+              "p_code": "S0X",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/06/11/iot-admin/ry4VNrD48ilWfvsP/picl_A1780P_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A1780212",
+              "name": "767 Power House (SOLIX F2000) with WLAN",
+              "sku_type": 1
+            },
+            {
+              "p_code": "RP8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/06/11/iot-admin/nzjAmoRHnzLsTGB7/picl_A1780P_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1780312",
+              "name": "767 Power House (SOLIX F2000) with WLAN",
+              "sku_type": 1
+            },
+            {
+              "p_code": "S0Y",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/06/11/iot-admin/b3J4bKw5HNjIFFO5/picl_A1780P_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1780C12",
+              "name": "767 Power House (SOLIX F2000) with WLAN",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/iFowwznbU2Pb5N6D/A1780P_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C300X DC",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/08/26/iot-admin/s2luuXJmqvKpI36t/picl_A1728_normal.png",
+          "index": 20,
+          "product_code": "A1728",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/6gncQNdvp11btCjJ/A1728_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "ZG0",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "A1728311",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ZJ1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "A1728011-5",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "ZF8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "A1728011",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FXR",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "B1728011",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FGF",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "B1728311",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FUH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "B1728013",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "HDU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "B1728014",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "6M6",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/08/27/iot-admin/nmJRZmvAhR4Lsugt/picl_A1728_normal.png",
+              "custom_fields": "",
+              "sku": "A1728J11",
+              "name": "SOLIX C300X DC",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/AfdsSStkuYrbXD1f/A1728_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C200(X)",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/09/10/iot-admin/kOwJqg8onXWhibR5/picl_A1723_A1725_normal.png",
+          "index": 27,
+          "product_code": "A1725",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/tLPMEhbiN90WWEZI/A1723_A1725_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "SF1",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/08/17/iot-admin/IJIuKNJn0u3ki9D0/picl_A1723_A1725_UK_SA_normal.png",
+              "custom_fields": "",
+              "sku": "A1725211-40",
+              "name": "SOLIX C200(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SF8",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/09/13/iot-admin/6jBj6W2UTcYZcdX1/picl_A1723_A1725_normal.png",
+              "custom_fields": "",
+              "sku": "A1725111-5",
+              "name": "SOLIX C200(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SBY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/09/13/iot-admin/6jBj6W2UTcYZcdX1/picl_A1723_A1725_normal.png",
+              "custom_fields": "",
+              "sku": "A1725511",
+              "name": "SOLIX C200(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "SBV",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/09/13/iot-admin/6jBj6W2UTcYZcdX1/picl_A1723_A1725_normal.png",
+              "custom_fields": "",
+              "sku": "A1725111",
+              "name": "SOLIX C200(X)",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FYS",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/09/13/iot-admin/6jBj6W2UTcYZcdX1/picl_A1723_A1725_normal.png",
+              "custom_fields": "",
+              "sku": "B1725111",
+              "name": "SOLIX C200(X)",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/1oQhUYwaoRXSaYMk/A1723_25_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C200 DC",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/09/10/iot-admin/YXB8v5IkTrI4bn5k/picl_A1727_normal.png",
+          "index": 28,
+          "product_code": "A1727",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/j7Zn8zPkdtin0Q1o/A1727_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "WVB",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17270Z1",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "0QV",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17270Z1-5",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "0LF",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17275Z1",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "0HR",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A1727511",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "D63",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "B17270Z1",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "2K6",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "B17270Z1-5",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            },
+            {
+              "p_code": "FAW",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/10/18/iot-admin/rl6OqP80iKYe3WES/picl_A1727_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17276Z1",
+              "name": "SOLIX C200 DC",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/FAh0y7bsBhJdMiUw/A1727_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the lot button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX F3800 Plus",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/12/23/iot-admin/xW0K1SUkAiTRYbJb/picl_A1790P_normal.png",
+          "index": 29,
+          "product_code": "A1790P",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/VdEplfY7ObqE4y1h/A1790_A1790P_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "C2C",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/12/23/iot-admin/QnQItF5LK8xDINEC/picl_A1790P_normal.png",
+              "custom_fields": "",
+              "sku": "A1790112",
+              "name": "SOLIX F3800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "T27",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/12/23/iot-admin/QnQItF5LK8xDINEC/picl_A1790P_normal.png",
+              "custom_fields": "",
+              "sku": "A1790112-5",
+              "name": "SOLIX F3800 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "T29",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/12/23/iot-admin/QnQItF5LK8xDINEC/picl_A1790P_normal.png",
+              "custom_fields": "",
+              "sku": "A1790512",
+              "name": "SOLIX F3800 Plus",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/E5DS1I6jEeH2Jjuh/A1790_A1790P_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "Portable Power Station 1000",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/12/26/iot-admin/xaTll2ubj8nXtols/picl_A1762_normal.png",
+          "index": 30,
+          "product_code": "A1762",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/A77JoamGQLCUdpay/A1762_guide.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "05U",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/12/23/iot-admin/Pi1P9k8ByYyU6iQd/picl_A1762_normal.png",
+              "custom_fields": "",
+              "sku": "A1762N61-72",
+              "name": "Portable Power Station 1000",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/QxqP1jCQBpGxmXs1/A1762_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C1000 Gen 2",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/07/iot-admin/x7ybg6h99q3YoV6M/picl_A1763_US_normal.png",
+          "index": 40,
+          "product_code": "A1763",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/1PymaxNVMRFxMWPG/A1763_guide.gif",
+          "net_guideline": "1. Press and hold the power button for 3 seconds. Once the device is powered on, the Bluetooth logo will start flashing. 2. If the logo doesn't flash, power off the device first. Then press and hold the power button for 7 seconds until the Bluetooth logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "DJWU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/7KHlG2e0xnXLp2P9/picl_A1763_US_normal.png",
+              "custom_fields": "",
+              "sku": "A17631A1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DK7Q",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/7KHlG2e0xnXLp2P9/picl_A1763_US_normal.png",
+              "custom_fields": "",
+              "sku": "A17631A1-5",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DL39",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/OB6S6r5zX629K2ZB/picl_A1763_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A17635Z1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DL2X",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/oWTdFudDiJwAkZfR/picl_A1763_JP_White_normal.png",
+              "custom_fields": "",
+              "sku": "A1763521",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DK96",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/GACRjNty32UfvRVb/picl_A1763_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A17633A1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJX6",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/DmcTAJDaPXafXejp/picl_A1763_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A17632A1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJX7",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/MO6DuAnzFMCB9WjD/picl_A1763_AU_normal.png",
+              "custom_fields": "",
+              "sku": "A1763CA1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKYY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/OB6S6r5zX629K2ZB/picl_A1763_JP_normal.png",
+              "custom_fields": "",
+              "sku": "B17635Z1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKQT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/GACRjNty32UfvRVb/picl_A1763_EU_normal.png",
+              "custom_fields": "",
+              "sku": "B17633A1",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DL5D",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/oWTdFudDiJwAkZfR/picl_A1763_JP_White_normal.png",
+              "custom_fields": "",
+              "sku": "B1763521",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DN5G",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/10/28/iot-admin/0Md6T2W1TJPlvzVg/picl_A1763_%E5%9B%BD%E9%99%85%E8%A7%84_normal.png",
+              "custom_fields": "",
+              "sku": "A17630A2",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DNZ5",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/DmcTAJDaPXafXejp/picl_A1763_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A17632A1-20",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMNE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/07/iot-admin/OB6S6r5zX629K2ZB/picl_A1763_JP_normal.png",
+              "custom_fields": "",
+              "sku": "A17635Z2",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DN5A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/10/28/iot-admin/0Md6T2W1TJPlvzVg/picl_A1763_%E5%9B%BD%E9%99%85%E8%A7%84_normal.png",
+              "custom_fields": "",
+              "sku": "A1763EA2",
+              "name": "SOLIX C1000 Gen 2",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/dUCAreG4UR9QP2Ux/A1763_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX C1000X Gen 2",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/06/23/iot-admin/OWunMpwFyHGcEGCt/picl_A1765_US_normal.png",
+          "index": 41,
+          "product_code": "A1765",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/BnNEFJuaRkE0kmDL/A1765_guide.gif",
+          "net_guideline": "1. Press and hold the power button for 3 seconds. Once the device is powered on, the Bluetooth logo will start flashing. 2. If the logo doesn't flash, power off the device first. Then press and hold the power button for 7 seconds until the Bluetooth logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "DKEW",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/2MVuEMWSXWGOLQ1G/picl_A1765_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1765111",
+              "name": "SOLIX C1000X  Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKEX",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/2MVuEMWSXWGOLQ1G/picl_A1765_US_normal.png",
+              "custom_fields": "",
+              "sku": "A1765111-5",
+              "name": "SOLIX C1000X  Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKDA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/7siGBT82mj5UklIV/picl_A1765_EU_normal.png",
+              "custom_fields": "",
+              "sku": "A1765311",
+              "name": "SOLIX C1000X  Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DLRG",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/Y56Vmly0fHH6Vs3L/picl_A1765_JP_White_normal.png",
+              "custom_fields": "",
+              "sku": "A1765521",
+              "name": "SOLIX C1000 Plus",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKEY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/QhJZPEnfe1qJeBM0/picl_A1765_UK_normal.png",
+              "custom_fields": "",
+              "sku": "A1765211",
+              "name": "SOLIX C1000X  Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DL2Q",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/06/24/iot-admin/2MVuEMWSXWGOLQ1G/picl_A1765_US_normal.png",
+              "custom_fields": "",
+              "sku": "B1765111",
+              "name": "SOLIX C1000X Gen 2",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/RftLXkF07ivMDbFM/A1765_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home Backup System",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/23/iot-admin/fRXbLUbmKqr8bN5p/picl_addadevice_list_PowerSolution.png",
+      "index": 1,
+      "products": [
+        {
+          "name": "Power Dock",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/12/09/iot-admin/outLnCItwob8jleR/%E4%BA%A7%E5%93%81%E5%9B%BEATS.png",
+          "index": 0,
+          "product_code": "AX170",
+          "custom_fields": "{\"is_site_device\":true,\"need_auth\":false,\"pn_in_site_type\":[\"main\",\"sub_main\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/12/09/iot-admin/Jl1kCj5HOYRsLI0I/%E5%8A%A8%E5%9B%BE.gif",
+          "net_guideline": "Press the IoT button for 7 second to reset WiFi.",
+          "p_codes": [
+            {
+              "p_code": "DLMQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/02/09/iot-admin/nwm5swSMwjsZU0md/picl_AX170_normal.png",
+              "custom_fields": "",
+              "sku": "AX170J40",
+              "name": "Power Dock",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMP2",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/02/09/iot-admin/xS2nSyHSwKz4bBIj/picl_AX170_normal.png",
+              "custom_fields": "",
+              "sku": "AX170J40-5 ",
+              "name": "Power Dock",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/12/09/iot-admin/l1yuZTvCGAyZxKVP/%E5%8A%A8%E5%9B%BE.gif",
+          "conn_confirm_tips": "Press the IoT button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX Home Power Panel",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/01/23/iot-admin/Qcjo9ALaRqFzFNeF/picl_A17B1_normal.png",
+          "index": 1,
+          "product_code": "A17B1",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/g5tWCqvv8fHq2Quz/A17B1_guide.png",
+          "net_guideline": "When the IoT light flashes, the device is in the Bluetooth pairing state. At this time, you can proceed to the next step to start network configuration. If the IoT light does not flash, press the IoT button briefly to activate pairing mode.",
+          "p_codes": [
+            {
+              "p_code": "ABY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/23/iot-admin/zBl2cFP1chu0yFRV/picl_A17B1_normal.png",
+              "custom_fields": "",
+              "sku": "A17B1111",
+              "name": "SOLIX Home Power Panel",
+              "sku_type": 1
+            },
+            {
+              "p_code": "CEJ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/01/23/iot-admin/zBl2cFP1chu0yFRV/picl_A17B1_normal.png",
+              "custom_fields": "",
+              "sku": "A17B1111-5",
+              "name": "SOLIX Home Power Panel",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/Idr67Vv59RP3Q328/A17B1_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "Anker SOLIX E10",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/U9udhgV1GMZowwIP/picl_A17E1_normal%20%281%29.png",
+          "index": 1,
+          "product_code": "A17E1",
+          "custom_fields": "{\"is_site_device\":true,\"need_auth\":false,\"pn_in_site_type\":[\"main\",\"single\",\"sub_main\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/sX04vmdRHscsGVi5/A17E1_Bluetooth_authentication.png",
+          "net_guideline": "Press the IoT button for 7 second to reset WiFi.",
+          "p_codes": [
+            {
+              "p_code": "DK9L",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/15/iot-admin/xNTZErzvSCwbzxT3/picl_A17E1_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17E1141",
+              "name": "Anker SOLIX E10",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DLTD",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/15/iot-admin/xNTZErzvSCwbzxT3/picl_A17E1_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17E1141-5",
+              "name": "Anker SOLIX E10",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/dGl0iXAbiZ2AHv3L/A17E1_Bluetooth_authentication.png",
+          "conn_confirm_tips": "Press the IoT button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balcony Solar Power System",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/9cae0c46-af9b-473a-ab97-43673b249908/picl_addadevice_list_BalconySolarSystem.png",
+      "index": 2,
+      "products": [
+        {
+          "name": "Solarbank 2 E1600 AC",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/11/12/iot-admin/6BAeFdf5H9to2vAO/output.lin.png",
+          "index": 3,
+          "product_code": "A17C2",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/11/12/iot-admin/dhCYHqnhyn89JQRO/output.gif",
+          "net_guideline": "Press the IoT button for 2 seconds until the IoT button starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "T78",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2024/11/12/iot-admin/ZkmukxFbXIzf2mlL/output.lin.png",
+              "custom_fields": "",
+              "sku": "A17C23Z1",
+              "name": "Solarbank 2 E1600 AC",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Powered Cooler",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/af4eb899-c99b-4bba-af69-7c386df32184/picl_addadevice_list_PoweredCoolor.png",
+      "index": 3,
+      "products": [
+        {
+          "name": "Powered Cooler 30",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/97a6e349-7488-4211-a1b8-1bea13cdace6/picl_A17A0_normal.png",
+          "index": 1,
+          "product_code": "A17A0",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/4jCEall7cm7YQYvd/A17A0_A17A1_guide.png",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "3JW",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A01M1",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3JY",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A02M1",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5AY",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A02M2",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3K9",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A03M1",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5AZ",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A03M2",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3KG",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A05M1",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3KF",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/uKTFefmJVhlo4cwL/picl_A17A0_normal.png",
+              "custom_fields": "",
+              "sku": "A17A0CM1",
+              "name": "Powered Cooler 30",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "Powered Cooler 40",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/17cb57d7-8527-4891-87e5-64c9e8f159da/picl_A17A1_normal.png",
+          "index": 2,
+          "product_code": "A17A1",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/88xTleTlddb6sDZ0/A17A0_A17A1_guide.png",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "3KY",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A11M1",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LC",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A12M1",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5C2",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A12M2",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LA",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A13M1",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5C3",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A13M2",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            },
+            {
+              "p_code": "42V",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A15J1",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LE",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/LaMb2jbUOS29mIDQ/picl_A17A1_normal.png",
+              "custom_fields": "",
+              "sku": "A17A1CM1",
+              "name": "Powered Cooler 40",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "Powered Cooler 50",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/7a27f88d-8a70-462a-9b0e-2803d6ea0da9/picl_A17A2_normal.png",
+          "index": 3,
+          "product_code": "A17A2",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/20/iot-admin/hVJBppl7o2Il03IG/A17A2_guide.png",
+          "net_guideline": "Press the IoT button for 2 seconds until the logo starts flashing.",
+          "p_codes": [
+            {
+              "p_code": "3LF",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A21M1",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LH",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A22M1",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5C4",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A22M2",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LG",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A23M1",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            },
+            {
+              "p_code": "5C6",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A23M2",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LK",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A25M1",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            },
+            {
+              "p_code": "3LJ",
+              "img_url": "https://public-aiot-ohi-prod.s3.us-east-2.amazonaws.com/anker-power/public/banner/2023/08/21/iot-admin/A7SCKcwXCQGHAlt6/picl_A17A2_normal.png",
+              "custom_fields": "",
+              "sku": "A17A2CM1",
+              "name": "Powered Cooler 50",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 0,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "SOLIX Everfrost 2 40L",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/02/17/iot-admin/YKH8rphDdH5G3FDn/picl_A17A4_normal%20%281%29.png",
+          "index": 29,
+          "product_code": "A17A4",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/2BxomxyCEikV8SgO/A17A3_A17A4_guide.gif",
+          "net_guideline": "Press and hold the button on the device for 2 seconds. When the Bluetooth logo starts flashing, you can connect the device with the Anker APP.",
+          "p_codes": [
+            {
+              "p_code": "DHVT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A43A1",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DHY3",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A45A1",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJ7L",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A41A1",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJ5P",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A41A1-5",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJD6",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A42A1",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJVQ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "B17A42A1",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DK9Q",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A42A1-40",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMAH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/17/iot-admin/Dqh5nd66sacVMGc6/picl_A17A4_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A4CA1",
+              "name": "SOLIX Everfrost 2 40L",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/2u1Cbmw1jVbpB2Rz/A17A4_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX Everfrost 2 58L",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/02/17/iot-admin/KnYwW6FsZmLuZTqs/picl_A17A5_normal%20%281%29.png",
+          "index": 30,
+          "product_code": "A17A5",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/IJ4ZzsmaYe8Bd46p/A17A5_guide.gif",
+          "net_guideline": "Press and hold the button on the device for 2 seconds. When the Bluetooth logo starts flashing, you can connect the device with the Anker APP.",
+          "p_codes": [
+            {
+              "p_code": "DJCW",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A52A1",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJ62",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A51A1-5",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJ7M",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A51A1",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DHVV",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A55A1",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DHVU",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A53A1",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DK7P",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "B17A52A1",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJVP",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A52A1-40",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMAG",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/02/19/iot-admin/9FdVofvvzhBJnGzQ/picl_A17A5_normal%20%281%29.png",
+              "custom_fields": "",
+              "sku": "A17A5CA1",
+              "name": "SOLIX Everfrost 2 58L",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/MCB1K54DLeke34wJ/A17A5_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLIX Everfrost 2 23L",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/03/24/iot-admin/4TKFSPhMPYF6KX8F/picl_A17A3_normal.png",
+          "index": 30,
+          "product_code": "A17A3",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/VhqHiMLr8auav0Tz/A17A3_A17A4_guide.gif",
+          "net_guideline": "Press and hold the button on the device for 2 seconds. When the Bluetooth logo starts flashing, you can connect the device with the Anker APP.",
+          "p_codes": [
+            {
+              "p_code": "DHXN",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "A17A33A1",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DHW4",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "A17A35A1",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJ3M",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "A17A31A1",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJ5Q",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "A17A31A1-5",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJCT",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "A17A32A1",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJW2",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "B17A32A1",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJY2",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/03/24/iot-admin/hrAlU1jvf7WMYi1P/picl_A17A3_normal.png",
+              "custom_fields": "",
+              "sku": "A17A32A1-40",
+              "name": "SOLIX Everfrost 2 23L",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/OXYs7Yc8dv3fp3Wk/A17A3_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Power Bank",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/anker-power/c14c9425-25eb-4b69-81a4-8042f1d28294/picl_addadevice_list_PowerBank.png",
+      "index": 4,
+      "products": [
+        {
+          "name": "20K Prime Power Bank",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/Skq4yXIJ9dDbKKuy/picl_A110G_normal.png",
+          "index": 0,
+          "product_code": "A110G",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/EhVsCeIKTudb7PNl/A110G_guide.png",
+          "net_guideline": "Tap to access the device's Bluetooth page, then double-tap to turn on Bluetooth.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/WxAg8Xph1jXPhr2v/A110G_guide.png",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "20K Prime Power Bank",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/36LAhKQY9yGt113A/picl_A110B_normal.png",
+          "index": 0,
+          "product_code": "A110B",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/nmcQzcZDGnSqgDWI/A110B_guide.png",
+          "net_guideline": "Tap to access the device's Bluetooth page, then double-tap to turn on Bluetooth.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/uWMn1F6arXrbvxU7/A110B_guide.png",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "26K Prime Power Bank",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/fTvsQQkdMVf6cVk6/picl_A110A_normal.png",
+          "index": 0,
+          "product_code": "A110A",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/vUDan62rcFhb2fuL/A110A_guide.png",
+          "net_guideline": "Tap to access the device's Bluetooth page, then double-tap to turn on Bluetooth.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/xc3fZLr7jeOqW1yq/A110A_guide.png",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Residential Storage System",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/01/19/iot-admin/dCa8d9BUGCFt4jUe/%E5%93%81%E7%B1%BB%E5%9B%BE%E7%89%87.png",
+      "index": 5,
+      "products": [
+        {
+          "name": "XE 7/8kW",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/14/iot-admin/tyuKJaDsoXQpkqgl/picl_A17E2_AE111_2B_normal.png",
+          "index": 1,
+          "product_code": "AE113",
+          "custom_fields": "{\"is_site_device\":true,\"need_auth\":false,\"pn_in_site_type\":[\"main\",\"single\",\"sub_main\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/6Lb8F3e1dmrDPRUD/AE113_2B_guide.gif",
+          "net_guideline": "Press and hold the IoT button for 7 seconds until the light \u200b\u200bbegins to blink\u200b\u200b.",
+          "p_codes": [
+            {
+              "p_code": "DRE4",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/14/iot-admin/5J5YODbj1Q7pgAZ3/picl_A17E2_AE111_2B_normal.png",
+              "custom_fields": "",
+              "sku": "AE113GZ1",
+              "name": "XE",
+              "sku_type": 2
+            },
+            {
+              "p_code": "E3P9",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/09/14/iot-admin/5J5YODbj1Q7pgAZ3/picl_A17E2_AE111_2B_normal.png",
+              "custom_fields": "",
+              "sku": "AE113TZ2",
+              "name": "XE",
+              "sku_type": 2
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/4QGEz4lPptl3HuKd/AE113_2B_bluetooth_authentication.png",
+          "conn_confirm_tips": "Tap the blinking IoT button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Smart EV Charger",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/07/23/iot-admin/gIM8BsMydZN9nmhx/%E5%85%85%E7%94%B5%E6%A1%A9%E5%93%81%E7%B1%BB%E5%9B%BE.png",
+      "index": 6,
+      "products": [
+        {
+          "name": "V1 Smart EV Charger",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/07/23/iot-admin/95QfOHilYjFdS66C/A5191%20%E9%80%9A%E7%94%A8%E5%9B%BE%E6%A0%87-%E4%B8%8D%E5%88%86%20SKU.png",
+          "index": 1,
+          "product_code": "A5191",
+          "custom_fields": "{\"is_share\": true}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/ubdbqGytW4NQu1Fe/A5191_guide.png",
+          "net_guideline": "After powering on, the device will broadcast Bluetooth for pairing.",
+          "p_codes": [
+            {
+              "p_code": "DK2Z",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/PA48QkazUcQbAWxn/picl_A5191_GZ2_VZ0_VZ2_3Z0_3Z1.png",
+              "custom_fields": "{\"phase\": \"three\", \"gunType\": \"socket\", \"standard\": \"eu\", \"ratedPower\": 22, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": true, \"second_charging_power\": false}",
+              "sku": "A5191GZ2",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJRA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/EBus62TRNm4Xpp3d/picl_A5191_GZ3_VZ1_VZ3.png",
+              "custom_fields": "{\"phase\": \"three\", \"gunType\": \"cable\", \"standard\": \"eu\", \"ratedPower\": 22, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": false, \"second_charging_power\": false}",
+              "sku": "A5191GZ3",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJJN",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/H4Ul1hGt71asFsUy/picl_A5191_GZ2_VZ0_VZ2_3Z0_3Z1.png",
+              "custom_fields": "{\"phase\": \"single\", \"gunType\": \"socket\", \"standard\": \"eu\", \"ratedPower\": 7.4, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": true, \"second_charging_power\": false}",
+              "sku": "A5191VZ0",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DK3A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/8qbMF1lJ7DorYFTB/picl_A5191_GZ3_VZ1_VZ3.png",
+              "custom_fields": "{\"phase\": \"single\", \"gunType\": \"cable\", \"standard\": \"eu\", \"ratedPower\": 7.4, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": false, \"second_charging_power\": false}",
+              "sku": "A5191VZ1",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMEY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/44l8vguh4qHclPpG/picl_A5191_GZ2_VZ0_VZ2_3Z0_3Z1.png",
+              "custom_fields": "{\"phase\": \"three\", \"gunType\": \"socket\", \"standard\": \"eu\", \"ratedPower\": 11, \"delay_start\": false, \"ratedCurrent\": 16, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": true, \"second_charging_power\": false}",
+              "sku": "A5191GZ4",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMEZ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/aLI43TaqldUos4Tq/picl_A5191_GZ3_VZ1_VZ3.png",
+              "custom_fields": "{\"phase\": \"three\", \"gunType\": \"cable\", \"standard\": \"eu\", \"ratedPower\": 11, \"delay_start\": false, \"ratedCurrent\": 16, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": false, \"second_charging_power\": false}",
+              "sku": "A5191GZ7",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DL4G",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/jERHM5cQPCnxxV9S/picl_A5191_GZ2_VZ0_VZ2_3Z0_3Z1.png",
+              "custom_fields": "{\"phase\": \"single\", \"gunType\": \"socket\", \"standard\": \"uk\", \"ratedPower\": 7.4, \"delay_start\": true, \"ratedCurrent\": 32, \"tamper_proof\": true, \"certification\": [\"UKCA\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": true, \"second_charging_power\": true}",
+              "sku": "A5191VZ2",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DKSH",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/WpZvYTXieYryfueR/picl_A5191_GZ3_VZ1_VZ3.png",
+              "custom_fields": "{\"phase\": \"single\", \"gunType\": \"cable\", \"standard\": \"uk\", \"ratedPower\": 7.4, \"delay_start\": true, \"ratedCurrent\": 32, \"tamper_proof\": true, \"certification\": [\"UKCA\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": false, \"second_charging_power\": true}",
+              "sku": "A5191VZ3",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DJRC",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/gBtDU4ERTtuNcHUE/picl_A5191_GZ2_VZ0_VZ2_3Z0_3Z1.png",
+              "custom_fields": "{\"phase\": \"single\", \"gunType\": \"shutter\", \"standard\": \"eu\", \"ratedPower\": 7.4, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": true, \"second_charging_power\": false}",
+              "sku": "A51913Z0",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DK3C",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/MjAd5q9dD553Uzq5/picl_A5191_GZ2_VZ0_VZ2_3Z0_3Z1.png",
+              "custom_fields": "{\"phase\": \"three\", \"gunType\": \"shutter\", \"standard\": \"eu\", \"ratedPower\": 22, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": true, \"second_charging_power\": false}",
+              "sku": "A51913Z1",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMNM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/ud5aao3G576Wcsd0/picl_A5191_GZ3_VZ1_VZ3.png",
+              "custom_fields": "{\"phase\": \"single\", \"gunType\": \"cable\", \"standard\": \"eu\", \"ratedPower\": 7.4, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": false, \"second_charging_power\": false}",
+              "sku": "A5191TZ1",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMNN",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/07/23/iot-admin/QU1Qb3ivRFJlZVEb/picl_A5191_GZ3_VZ1_VZ3.png",
+              "custom_fields": "{\"phase\": \"three\", \"gunType\": \"cable\", \"standard\": \"eu\", \"ratedPower\": 22, \"delay_start\": false, \"ratedCurrent\": 32, \"tamper_proof\": false, \"certification\": [\"CE\", \"RoHS\", \"REACH\"], \"permanent_lock_gun\": false, \"second_charging_power\": false}",
+              "sku": "A5191TZ2",
+              "name": "V1 Smart EV Charger",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 2,
+          "conn_confirm_img": "",
+          "conn_confirm_tips": "",
+          "ble_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/iPDTdMXsNH6kC2zG/A5191_BLE_PWD.png",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charger",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/08/08/iot-admin/qH49q7oO4UFQxExm/picl_addadevice_list_A2345_A91B2-US.png",
+      "index": 7,
+      "products": [
+        {
+          "name": "150W Charging Base",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/15/iot-admin/cqENYe2MuReebg6P/picl_A1903_normal.png",
+          "index": 0,
+          "product_code": "A1903",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/10/10/iot-admin/0bLP73sDdUCtarRI/1903 \u914d\u7f51.jpeg",
+          "net_guideline": "Press the button until the indicator light flashes to reset Bluetooth broadcasting.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/10/10/iot-admin/FQ8CMVVw5HNNhIUw/1903 \u914d\u7f51.jpeg",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "Anker MagStand Charging Station",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/10/21/iot-admin/amNeS5eq5iaXKvra/A120D-\u9ed1\u8272\u914d\u56fe.png",
+          "index": 1,
+          "product_code": "A1504",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/10/21/iot-admin/l0sNYxcsyrHh7aS1/black-\u5f15\u5bfc\u914d\u56fe.png",
+          "net_guideline": "Tap to access the device's Bluetooth page, then double-tap to turn on Bluetooth.",
+          "p_codes": [
+            {
+              "p_code": "E4C9",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "E4C9",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2WX",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "E2WX",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E399",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "E399",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2WY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "E2WY",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2WZ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "E2WZ",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DR9A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "DR9A",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQX9",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/10/09/iot-admin/Q6pBGVUzGCXq7k01/black-\u8bbe\u5907\u56fe.png",
+              "custom_fields": "",
+              "sku": "DQX9",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DSCA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "DSCA",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2X9",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "E2X9",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQWY",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "DQWY",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQWZ",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "DQWZ",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DQXA",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "DQXA",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E39A",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "E39A",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DR99",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/11/06/iot-admin/IE2cLrWjx1fb3G9G/A120D-\u9ed1\u8272\u914d\u56fe.png",
+              "custom_fields": "",
+              "sku": "DR99",
+              "name": "Anker MagStand Charging Station",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/10/22/iot-admin/NPYIDxp3ttPeRYsl/black-\u84dd\u7259\u9274\u6743.png",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "Prime Wireless Charger",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/08/18/iot-admin/TSS2SajGshi5TPgn/picl_A25X7.png",
+          "index": 1,
+          "product_code": "A25X7",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/NcdFiIlCf87Hfl1a/A25X7_addguide.png",
+          "net_guideline": "Make sure your phone's Bluetooth is turned on, and the wireless charger is powered on and working properly. Ensure your wireless charger is close to your phone.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/l3oNUZ4ahgQiw9OB/A25X7_bluetooth.png",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "160W Prime Charger",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/15/iot-admin/2s43qT2Nld9rvZCV/2687\u56fe\u7247.png",
+          "index": 1,
+          "product_code": "A2687",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/SrMLG6XAEQhV8FO3/A2687_blue.png",
+          "net_guideline": "Tap to access the device's Bluetooth page, then double-tap to turn on Bluetooth.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/FLkOgSzmI2L6clol/A2687_bluetooth_.png",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth"
+          ]
+        },
+        {
+          "name": "250W Prime Charger",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/08/08/iot-admin/y9Zh340TJ6xwZWI1/picl_A2345.png",
+          "index": 1,
+          "product_code": "A2345",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/C5Tzyy4g9Bs8xz1E/A2345_guide.gif",
+          "net_guideline": "Select the Wi-Fi option on the device setting, and a Wi-Fi flashing icon will appear on the device screen.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/06/24/iot-admin/VavzWMHOCXvC8QJX/A2345.jpg",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "240W Charging Station",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/08/08/iot-admin/fFj4MRkAPz4gX0EK/picl_A91B2_USA.png",
+          "index": 2,
+          "product_code": "A91B2",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/16/iot-admin/RGjXsrGZaXa3Jh5R/A91B2_US.gif",
+          "net_guideline": "Press and hold the Display Button for 5 seconds until a Wi-Fi flashing icon appears on the device screen.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/06/24/iot-admin/zxicQtd5HFydel72/A91B2.jpg",
+          "conn_confirm_tips": "Press the button on the device to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accessory",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/DVtgpxR35paRNe4j/picl_addadevice_list_accessory_US.png",
+      "index": 8,
+      "products": [
+        {
+          "name": "Smart Meter",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/22/iot-admin/LttmU2O3EV7CcPdn/picl_A17X7_normal.png",
+          "index": 1,
+          "product_code": "A17X7",
+          "custom_fields": "",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/f4qGUKQTwH3yhgXN/A17X7_gudie.gif",
+          "net_guideline": "After the smart meter is turned on, if the device communicates normally, the signal indicator light will flash blue and it is in the Bluetooth broadcast state.\nIf the blue indicator light does not flash, please press and hold the button for 7 seconds and wait until the blue indicator light flashes to perform Bluetooth network configuration.",
+          "p_codes": [],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/w0Zn22cPBqnb9W5i/A17X7_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button once briefly to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "Smart Meter Gen 2",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/05/28/iot-admin/bl3RQhppBiHTpW9V/picl_AE1X0_normal.png",
+          "index": 1,
+          "product_code": "AE1X0",
+          "custom_fields": "{\"is_site_device\":true,\"need_auth\":false,\"pn_in_site_type\":[\"sub_main\",\"single\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/05/28/iot-admin/PM7Jk9bTshVsBuZg/AE1X0_guide.gif",
+          "net_guideline": "Press and hold the IoT button for 7 seconds until the light \u200b\u200bbegins to blink\u200b\u200b.",
+          "p_codes": [
+            {
+              "p_code": "DNSL",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/07/22/iot-admin/8NwmuT3Ef0MzW1Mo/picl_AE1X0_normal.png",
+              "custom_fields": "",
+              "sku": "AE1X0310",
+              "name": "Smart Meter Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DNSM",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/07/22/iot-admin/Uil0kJyIke2XB7e0/picl_AE1X0_normal.png",
+              "custom_fields": "",
+              "sku": "AE1X0311",
+              "name": "Smart Meter Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2UR",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/07/22/iot-admin/P13lQePX4cUIfdco/picl_AE1X0_normal.png",
+              "custom_fields": "",
+              "sku": "AE1X0312",
+              "name": "Smart Meter Gen 2",
+              "sku_type": 1
+            },
+            {
+              "p_code": "E2V3",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2026/07/22/iot-admin/zTDY0NPfX7O1yijy/picl_AE1X0_normal.png",
+              "custom_fields": "",
+              "sku": "AE1X0313",
+              "name": "Smart Meter Gen 2",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/05/28/iot-admin/bFvm69WyivhjdMWH/AE1X0_Bluetooth_authentication.png",
+          "conn_confirm_tips": "Press the device's IoT button once briefly to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "Smart Meter",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/8rn1KSkOVILAq1FY/picl_A17X7_US_normal%281%29.png",
+          "index": 1,
+          "product_code": "A17X7US",
+          "custom_fields": "{\"is_site_device\":true,\"need_auth\":false,\"pn_in_site_type\":[\"sub_main\",\"single\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/ViTFsShe0vyTceS8/A17X7_US_gudie.png",
+          "net_guideline": "Press the button for 7 seconds unitl the light quick flashing.",
+          "p_codes": [
+            {
+              "p_code": "C64",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/L3uD6WFP6N0Y0R5p/picl_A17X7_US_normal%281%29.png",
+              "custom_fields": "",
+              "sku": "A17X7111",
+              "name": "Smart Meter",
+              "sku_type": 1
+            },
+            {
+              "p_code": "CU3",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/05/22/iot-admin/L3uD6WFP6N0Y0R5p/picl_A17X7_US_normal%281%29.png",
+              "custom_fields": "",
+              "sku": "A17X7112",
+              "name": "Smart Meter",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/bH6kfWAJZy1kLFDh/A17X7_US_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button once briefly to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        },
+        {
+          "name": "SOLlX Alternator Charger",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/10/24/iot-admin/UmopVIzvsqmMPwMr/AS200.png",
+          "index": 13,
+          "product_code": "AS200",
+          "custom_fields": "{\"is_site_device\":false,\"need_auth\":false,\"pn_in_site_type\":[\"single\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/VBmkn9Xxo4JdlYMQ/AS200_gudie.png",
+          "net_guideline": "Long press the button for 7 seconds until the sync button is blinking blue light.",
+          "p_codes": [
+            {
+              "p_code": "DKJN",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/10/24/iot-admin/K9qLLIYvSu8DyCJo/AS200.png",
+              "custom_fields": "",
+              "sku": "AS2001A1",
+              "name": "SOLlX Alternator Charger",
+              "sku_type": 1
+            },
+            {
+              "p_code": "DMT3",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/10/24/iot-admin/K9qLLIYvSu8DyCJo/AS200.png",
+              "custom_fields": "",
+              "sku": "AS2002A1",
+              "name": "SOLlX Alternator Charger",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/JiekxqvTYya3YFsT/AS200_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the main power button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Smart Generator",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/16/iot-admin/JJ6PYoxmWxWPHOJn/picl_addadevice_list_A7320.png",
+      "index": 10,
+      "products": [
+        {
+          "name": "SOLIX Smart Generator 5500",
+          "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/09/16/iot-admin/RRqep1ZkHHWoN9sI/picl_A7320_normal.png",
+          "index": 1,
+          "product_code": "A7320",
+          "custom_fields": "{\"is_site_device\":false,\"need_auth\":false,\"pn_in_site_type\":[\"single\"]}",
+          "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/PHioOHx36j9aex8R/A7320_gudie.gif",
+          "net_guideline": "Long press the button for 7 seconds until the sync button is blinking green light.",
+          "p_codes": [
+            {
+              "p_code": "DKAE",
+              "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/banner/2025/09/16/iot-admin/20BDbTgPSyMlwliF/picl_A7320_normal.png",
+              "custom_fields": "",
+              "sku": "A7320J40",
+              "name": "SOLIX Smart Generator 5500",
+              "sku_type": 1
+            }
+          ],
+          "conn_confirm_model": 1,
+          "conn_confirm_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/ifBPuSi88e0h1vm7/A7320_bluetooth_authentication .png",
+          "conn_confirm_tips": "Press the device's IoT button to connect.",
+          "ble_img_url": "",
+          "conn_net_code": [
+            "bluetooth",
+            "WIFI"
+          ]
+        }
+      ]
+    }
+  ],
+  "trace_id": "c73db7b7d69b57b1627fb7bcf2db821b"
+}

@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "model_list": [
+      "5 EV"
+    ]
+  },
+  "trace_id": "bf53adb620e0224be3f7ae70bfe27b92"
+}

@@ -1,0 +1,202 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "home_info": {
+      "home_name": "",
+      "home_img": "",
+      "charging_power": "",
+      "power_unit": ""
+    },
+    "solar_list": [],
+    "pps_info": {
+      "pps_list": [],
+      "total_charging_power": "",
+      "power_unit": "",
+      "total_battery_power": "",
+      "updated_time": "",
+      "pps_status": 0
+    },
+    "statistics": [
+      {
+        "type": "1",
+        "total": "0.00",
+        "unit": "kwh"
+      },
+      {
+        "type": "2",
+        "total": "112.87",
+        "unit": "kg"
+      },
+      {
+        "type": "3",
+        "total": "0.00",
+        "unit": "$"
+      }
+    ],
+    "topology_type": "1",
+    "solarbank_info": {
+      "solarbank_list": [],
+      "total_charging_power": "",
+      "power_unit": "",
+      "charging_status": "",
+      "total_battery_power": "",
+      "updated_time": "",
+      "total_photovoltaic_power": "",
+      "total_output_power": "",
+      "display_set_power": false,
+      "battery_discharge_power": "",
+      "ac_power": "",
+      "to_home_load": "",
+      "is_display_data": false,
+      "solar_power_1": "",
+      "solar_power_2": "",
+      "solar_power_3": "",
+      "solar_power_4": "",
+      "other_input_power": "",
+      "micro_inverter_power": "",
+      "micro_inverter_power_limit": "",
+      "micro_inverter_low_power_limit": "",
+      "grid_to_battery_power": "",
+      "pei_heating_power": "",
+      "backup_info": {
+        "start_time": 0,
+        "end_time": 0,
+        "full_time": 0
+      },
+      "use_time_excute_info": null
+    },
+    "retain_load": "",
+    "scene_mode": 5,
+    "home_load_power": "",
+    "updated_time": "",
+    "power_site_type": 13,
+    "site_id": "126c3ff8-711a-6e3a-f797-1127110ccd4e",
+    "powerpanel_list": [],
+    "grid_info": {
+      "grid_list": [
+        {
+          "device_pn": "A17X7US",
+          "device_sn": "3VIC64BMM5YYRA1O",
+          "device_name": "Smart Meter",
+          "device_img": "",
+          "create_time": 1758596610,
+          "status": "1",
+          "bind_site_status": "",
+          "wireless_type": "",
+          "bind_site_ids": null,
+          "hardware_info": 0,
+          "hardware_main_sn": "",
+          "hardware_status": 0
+        }
+      ],
+      "hardware_list": [],
+      "photovoltaic_to_grid_power": "",
+      "grid_to_home_power": "",
+      "grid_status": 0,
+      "has_history_data": false
+    },
+    "is_downgrade": false,
+    "error_code": 0,
+    "smart_plug_info": {
+      "smartplug_list": [],
+      "total_power": ""
+    },
+    "feature_switch": null,
+    "other_loads_power": "",
+    "priority_discharge_switch": 0,
+    "display_priority_discharge_tips": 0,
+    "priority_discharge_upgrade_devices": "",
+    "style_id": 0,
+    "is_show_priority_discharge": 0,
+    "solarbank_pps_info": {
+      "pps_list": [
+        {
+          "device_pn": "A1782",
+          "device_sn": "75R2301GDVS4URYWK",
+          "device_name": "Home Lab Solix",
+          "device_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/pWQZvVJTXEd1AqJU/picl_A1782_US_normal.png",
+          "battery_power": "36",
+          "charging_power": "1416",
+          "discharging_power": "0",
+          "status": "1",
+          "wireless_type": "1",
+          "charging_status": "2",
+          "phase": "1",
+          "create_time": 1785795846,
+          "pv_exist": true,
+          "pv_exist_v2": true,
+          "pv_power": "1416",
+          "pv_low_power": "380",
+          "pv_high_power": "1036",
+          "pv_low_name": "",
+          "pv_high_name": "",
+          "sub_package_num": "2",
+          "grid_to_battery_power": "0",
+          "home_load_power": "0",
+          "main_ct_number": 1,
+          "branch_ct_number": 3,
+          "branch_ct_power": "546W",
+          "self_inspection_status": 0,
+          "main_branch_check_status": 0,
+          "protection_status": 0,
+          "charge_protect_threshold": 145,
+          "discharge_protect_threshold": 150,
+          "support_country_code": true,
+          "country_code": "US",
+          "sub_pack_temp_alarm": 0,
+          "ev_remain_status": 3
+        }
+      ],
+      "total_charging_power": "1416",
+      "total_output_power": "0",
+      "total_battery_power": "36",
+      "total_pv_input_power": "1416",
+      "total_home_load_power": "0",
+      "total_grid_to_battery": "0",
+      "home": [
+        {
+          "main_ct_number": 1,
+          "branch_ct_number": 3,
+          "pps_to_home_power": "0",
+          "grid_to_home_power": "0"
+        }
+      ],
+      "grid": [
+        {
+          "main_ct_number": 1,
+          "branch_ct_number": 3,
+          "power": "0"
+        }
+      ],
+      "system": [
+        {
+          "device_pn": "",
+          "main_ct_number": 1,
+          "branch_ct_number": 3,
+          "device_name": "Home Lab Solix",
+          "third_pv_power": "0",
+          "grid_power": "0",
+          "system_power": "0"
+        }
+      ]
+    },
+    "user_scene_mode": 5,
+    "is_dynamic_price_down_grade": false,
+    "aiems_profit": null,
+    "switch_0w": 0,
+    "err_msg": "",
+    "third_party_pv": "",
+    "combiner_box_info": null,
+    "charging_pile_info": null,
+    "third_part_pv_setting": 0,
+    "enwg_status": 0,
+    "custom_charging_type": 0,
+    "total_output_power_v2": 0,
+    "total_input_power_v2": 0,
+    "off_grid_power_v2": 0,
+    "grid_connected_power_v2": 0,
+    "other_load_power_v2": 0
+  },
+  "trace_id": "8a9b6047dab63eebddcbcbfe75accabd"
+}

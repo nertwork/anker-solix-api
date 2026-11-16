@@ -1,0 +1,34 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "site_list": [
+      {
+        "site_id": "126c3ff8-711a-6e3a-f797-1127110ccd4e",
+        "site_name": "Garage",
+        "site_img": "",
+        "device_type_list": [],
+        "ms_type": 0,
+        "power_site_type": 0,
+        "is_allow_delete": false,
+        "support_device_models": null,
+        "current_site_device_models": null,
+        "init_status": 0,
+        "site_device_list": null,
+        "is_site_created_by_installer": false,
+        "reason_code": 0,
+        "not_allow_delete_reason": null,
+        "not_allow_device_add_remove": 0,
+        "not_allow_add_remove_device_type": null
+      }
+    ],
+    "solar_list": [],
+    "pps_list": [],
+    "solarbank_list": [],
+    "powerpanel_list": [],
+    "solarbank_pps_list": [],
+    "combiner_box_list": [],
+    "charging_pile_list": []
+  },
+  "trace_id": "df21aa4fa7af0f04a1be3a0dc991e11e"
+}

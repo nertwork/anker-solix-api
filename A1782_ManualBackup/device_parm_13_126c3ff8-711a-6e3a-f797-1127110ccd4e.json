@@ -1,0 +1,8 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "param_data": "{\"data_auth\":false,\"enable_training\":false}"
+  },
+  "trace_id": "aad0a59b96e303580bb088a91226fca4"
+}

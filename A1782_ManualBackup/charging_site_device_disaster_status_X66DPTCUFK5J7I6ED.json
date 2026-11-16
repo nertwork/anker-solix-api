@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "auto_disaster_status": 2,
+    "manual_disaster_status": 2,
+    "current_disaster_detail": null
+  },
+  "trace_id": "f3a62d3e1fddbe8c248ec770f7d0c9db"
+}

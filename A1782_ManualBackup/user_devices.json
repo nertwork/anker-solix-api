@@ -1,0 +1,49 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "solar_list": [],
+    "pps_list": [],
+    "solarbank_list": [],
+    "powerpanel_list": [],
+    "grid_list": [
+      {
+        "device_pn": "A17X7US",
+        "device_sn": "3VIC64BMM5YYRA1O",
+        "device_name": "Smart Meter",
+        "device_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/8rn1KSkOVILAq1FY/picl_A17X7_US_normal%281%29.png",
+        "create_time": 0,
+        "status": "1",
+        "bind_site_status": "1",
+        "wireless_type": "1",
+        "bind_site_ids": null,
+        "hardware_info": 0,
+        "hardware_main_sn": "",
+        "hardware_status": 0
+      }
+    ],
+    "smartplug_list": [],
+    "solarbank_pps_list": [
+      {
+        "device_sn": "75R2301GDVS4URYWK",
+        "device_name": "Home Lab Solix",
+        "device_img": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/19/iot-admin/pWQZvVJTXEd1AqJU/picl_A1782_US_normal.png",
+        "battery_power": "",
+        "bind_site_status": "1",
+        "charging_power": "",
+        "status": "1",
+        "green_status": "",
+        "wireless_type": "1",
+        "device_pn": "A1782",
+        "priority_index": "",
+        "main_version": "",
+        "create_time": 0
+      }
+    ],
+    "combiner_box_list": [],
+    "charging_pile_list": [],
+    "home_backup_system_list": [],
+    "hardware_list": []
+  },
+  "trace_id": "ff51578a4ffa5dbf1b840cb15e2370df"
+}

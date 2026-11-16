@@ -1,0 +1,227 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "update_infos": [
+      {
+        "device_sn": "3VIC64BMM5YYRA1O",
+        "device_type": "A17X7US",
+        "need_update": false,
+        "need_rollback": false,
+        "upgrade_type": 0,
+        "lastPackage": {
+          "product_code": "",
+          "product_component": "",
+          "version": "",
+          "is_forced": false,
+          "md5": "",
+          "url": "",
+          "size": 0
+        },
+        "change_log": "",
+        "current_version": "v1.0.0.15",
+        "children": null,
+        "upgrade_level": 0,
+        "device_relation": null
+      },
+      {
+        "device_sn": "SP1DJWUZD2EOT87Y1",
+        "device_type": "A1763",
+        "need_update": true,
+        "need_rollback": false,
+        "upgrade_type": 1,
+        "lastPackage": {
+          "product_code": "A1763",
+          "product_component": "A1763_low",
+          "version": "v1.1.4.9",
+          "is_forced": false,
+          "md5": "2021d8591d70738146a3b41e220dcc26",
+          "url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/09/02/iot-admin/GtoCjLXYhqAWc3WV/A1763_LVOTA_v1.1.4.9_20260729.bin",
+          "size": 1490537
+        },
+        "change_log": "",
+        "current_version": "v1.1.4.8",
+        "children": [
+          {
+            "needUpdate": true,
+            "device_type": "A1763_mcu_low",
+            "rom_version_name": "v1.1.4.9",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/09/02/iot-admin/ckfOr38XkEaGrdne/A1763_LVOTA_v1.1.4.9_20260729.bin",
+              "file_size": 1490537,
+              "file_md5": "2021d8591d70738146a3b41e220dcc26"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          },
+          {
+            "needUpdate": true,
+            "device_type": "A1763_esp32_low",
+            "rom_version_name": "v0.3.3.0",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/06/08/iot-admin/cT3hYFDL859elXvD/A1763_module_v0.3.3.0.bin",
+              "file_size": 1482752,
+              "file_md5": "219a6d9cdd4170aa2abd553dadade2dc"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          }
+        ],
+        "upgrade_level": 3,
+        "device_relation": null
+      },
+      {
+        "device_sn": "X66DPTCUFK5J7I6ED",
+        "device_type": "AS220",
+        "need_update": false,
+        "need_rollback": false,
+        "upgrade_type": 0,
+        "lastPackage": {
+          "product_code": "AS220",
+          "product_component": "AS220_low",
+          "version": "v1.0.3.6",
+          "is_forced": false,
+          "md5": "2452cada89aaf4976b8ddfa030563ed2",
+          "url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/09/04/iot-admin/zHq3vXm8Pwt8K14m/AS220_LVOTA_v1.0.3.6_20260903.bin",
+          "size": 508996
+        },
+        "change_log": "",
+        "current_version": "v1.0.3.6",
+        "children": [
+          {
+            "needUpdate": false,
+            "device_type": "AS220_mcu_low",
+            "rom_version_name": "v1.0.3.6",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/09/04/iot-admin/YzlNt5lWZsE5ING3/AS220_LVOTA_v1.0.3.6_20260903.bin",
+              "file_size": 508996,
+              "file_md5": "2452cada89aaf4976b8ddfa030563ed2"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          },
+          {
+            "needUpdate": false,
+            "device_type": "AS220_esp32_low",
+            "rom_version_name": "v0.3.3.0",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/05/21/iot-admin/l3JlJDBHLNDrrW7o/AS220_module_v0.3.3.0.bin",
+              "file_size": 1482752,
+              "file_md5": "219a6d9cdd4170aa2abd553dadade2dc"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          }
+        ],
+        "upgrade_level": 3,
+        "device_relation": null
+      },
+      {
+        "device_sn": "75R2301GDVS4URYWK",
+        "device_type": "A1782",
+        "need_update": true,
+        "need_rollback": false,
+        "upgrade_type": 1,
+        "lastPackage": {
+          "product_code": "A1782",
+          "product_component": "A1782_low",
+          "version": "v1.2.4.4",
+          "is_forced": false,
+          "md5": "3b8339deee5e9f6821e4434bf71aa6b1",
+          "url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/09/17/iot-admin/7su5qkhCGmpdlM2v/A1782_LVOTA_V1.2.4.4_20260904.bin",
+          "size": 883780
+        },
+        "change_log": "",
+        "current_version": "v1.2.2.5",
+        "children": [
+          {
+            "needUpdate": true,
+            "device_type": "A1782_esp32_low",
+            "rom_version_name": "v0.3.4.0",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/07/23/iot-admin/JDv6i6qTUlqLMuUA/A1782_LVOTA_OTAWIFI_V0.3.4.0_20260710.bin",
+              "file_size": 1369936,
+              "file_md5": "9ebb4f46cf2d402bc279f0152e14ee41"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          },
+          {
+            "needUpdate": true,
+            "device_type": "A1782_20Ah",
+            "rom_version_name": "v3.8.2.7",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/02/09/iot-admin/KmtHMXooaKCGOS4P/A1782_LVOTA_V3.8.2.7_20260206.bin",
+              "file_size": 883780,
+              "file_md5": "cb3919bfbeb169497926a3c9e5b9c0db"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          },
+          {
+            "needUpdate": true,
+            "device_type": "A1782_20Ah",
+            "rom_version_name": "v2.4.6.3",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2025/11/03/iot-admin/e7LhIqNTHHPZouJG/A1782_HVOTA_V2.4.6.3_20251030.bin",
+              "file_size": 864324,
+              "file_md5": "f60ba4dd9b737560410ad7a10561b3ed"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          },
+          {
+            "needUpdate": true,
+            "device_type": "A1782_A17D4",
+            "rom_version_name": "v1.0.1.6",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2025/10/27/iot-admin/kA3x7EZ8Xnst7kND/A1782_LVOTA_V1.0.1.6_20251014.bin",
+              "file_size": 869444,
+              "file_md5": "7008776fdab95d1737a8b9e02266fe45"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          },
+          {
+            "needUpdate": true,
+            "device_type": "A1782_mcu_low",
+            "rom_version_name": "v1.2.4.4",
+            "force_upgrade": false,
+            "full_package": {
+              "file_path": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/ota/2026/09/17/iot-admin/IkOcXY0J4gvvQwvW/A1782_LVOTA_V1.2.4.4_20260904.bin",
+              "file_size": 883780,
+              "file_md5": "3b8339deee5e9f6821e4434bf71aa6b1"
+            },
+            "change_log": "",
+            "sub_current_version": "",
+            "upgrade_level": 0
+          }
+        ],
+        "upgrade_level": 0,
+        "device_relation": null
+      }
+    ],
+    "popup_info": {
+      "need_update": true,
+      "sub_need_update": false,
+      "upgrade_level": 3
+    }
+  },
+  "trace_id": "f5dc81ab95ae44ef7bbc3d74dcb9d3e9"
+}

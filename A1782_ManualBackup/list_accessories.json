@@ -1,0 +1,52 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": [
+    {
+      "name": "Double Voltage Hub",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2025/05/23/iot-admin/B0vgsuMLg895hr5c/picl_A17D4_normal.png",
+      "index": 1,
+      "product_code": "A17D4",
+      "custom_fields": "",
+      "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2026/09/09/iot-admin/BBNkYsQncP8444mY/A17D4_gudie.png",
+      "net_guideline": "Press the button until the light flashing.",
+      "p_codes": null,
+      "conn_confirm_model": 0,
+      "conn_confirm_img": "",
+      "conn_confirm_tips": "",
+      "ble_img_url": "",
+      "conn_net_code": null
+    },
+    {
+      "name": "SOLIX Generator Input Adapter",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/12/23/iot-admin/jlyKUXzsT1sFbOgp/picl_A17D0_normal.png",
+      "index": 2,
+      "product_code": "A17D0",
+      "custom_fields": "",
+      "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/12/23/iot-admin/8pj1UNRWYynwFFz8/A1790P_guide.gif",
+      "net_guideline": "Connect SOLIX F3800 Plus and generator respectively",
+      "p_codes": null,
+      "conn_confirm_model": 0,
+      "conn_confirm_img": "",
+      "conn_confirm_tips": "",
+      "ble_img_url": "",
+      "conn_net_code": null
+    },
+    {
+      "name": "Double Power Hub",
+      "img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/05/10/iot-admin/i6uj5Etj3UWvFYqI/picl_A17B2_normal.png",
+      "index": 1,
+      "product_code": "A17B2",
+      "custom_fields": "",
+      "net_img_url": "https://public-aiot-ohi-prod.s3.dualstack.us-east-2.amazonaws.com/anker-power/public/product/2024/05/10/iot-admin/uo8ZtUudDK7QD6go/A1790_guide.gif",
+      "net_guideline": "Press the IoT button and the logo starts flashing.",
+      "p_codes": null,
+      "conn_confirm_model": 0,
+      "conn_confirm_img": "",
+      "conn_confirm_tips": "",
+      "ble_img_url": "",
+      "conn_net_code": null
+    }
+  ],
+  "trace_id": "f1767cfcc7a4f7b7c923c3d07abf499c"
+}

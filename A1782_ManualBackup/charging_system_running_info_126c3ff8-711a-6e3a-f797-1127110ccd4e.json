@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "connect_infos": {},
+    "connected": false,
+    "total_system_savings": 0,
+    "system_savings_price_unit": "",
+    "save_carbon_footprint": 0,
+    "save_carbon_unit": "",
+    "save_carbon_c": 0.997,
+    "total_system_power_generation": 0,
+    "system_power_generation_unit": ""
+  },
+  "trace_id": ""
+}

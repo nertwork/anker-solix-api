@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "msg": "success!",
+  "data": {
+    "group_name": "",
+    "device_sn": "",
+    "device_pn": "",
+    "sub_device_list": null
+  },
+  "trace_id": "13b2a625cb76504254cae42fdd6bb1bb"
+}
